@@ -1,0 +1,1004 @@
+7	2	Hay que educar a los ciudadanos, aunque sea a base de multas.	1
+7	5	Madrid es una ciudad sucia, no por falta de limpieza, pero sí por falta de educación.	1
+7	10	El Ayuntamiento está tan ocupado leyendo propuestas y escuchando a sus ciudadanos, que se olvida de los que son sus obligaciones fundamentales, prestar servicios públicos de calidad a los ciudadanos.	1
+7	11	Necesitamos muchos camiones con mangueras de agua, barrer no es suficiente.	1
+7	16	La basura algún día ni la recogen, basura fuera de los contenedores días y días.	1
+7	20	Además de la obvia necesidad de limpiar las calles a fondo especialmente del centro, que manifiesta un estado lamentable es necesario un plan global que eduque en colegios y barrios, informe en las calles a vecinos, transeúntes y colectivos y, como paso transitorio a la normalización, sancione a quien orine, escupa y defeque en la vía pública, no recoja los excrementos de sus animales y permita que estos orinen en portales y macetas, tire papeles, chicles, colillas o cualquier objeto que ensucie la vía y no participe en el correcto proceso de reciclaje.	1
+7	27	Lo primero es la concienciación, la información y la educación cívica y medioambiental pero la situación de Madrid empieza a exigir medidas excepcionales en esta materia.	1
+7	28	Por supuesto. Y el problema añadido es que en Madrid llueve poco, un tanto en otoño, algunas gotas en invierno y otro chubasco en primavera, el verano nada de nada, por eso se requiere tanta limpieza.	1
+7	31	Vivo en la zona latina y cerca zona Madrid río. Desde hace más de 2 meses no pasa nadie a limpiar las calles y cada vez que voy al colegio de mi hija tengo que ir esquivando las mierdas de los perros, palomas papeles publicidad de prostitutas y masajes orientales que dejan en los coches. Justo en Madrid río todo limpio pero qué pasa con las calles paralelas que les separa solamente un paso de peatones?	1
+7	33	Creo que antes que limpiar, el ciudadano debería dejar de ensuciar. No cuesta nada guardarse un papel en la mano hasta encontrar una papelera.	1
+7	34	Y tampoco es necesario que haya papeleras a cada 50 metros, podemos aguantar un poquito más que eso sin tener que tirar la basura por donde nos apetezca.	1
+7	35	Lo ideal es que no se manche, pero lo necesario es que se limpie. Culpar al ciudadano es lo habitual, pero pongo un simil para que se entienda.	1
+7	36	Si entras en un bar con el suelo lleno de servilletas sucias yo no entro la tendencia es a tirar la servilletas, es un acto inconsciente. Si el bar está limpio buscarás la papelera.	1
+7	37	Es lamentable el estado de las calles en la zona centro de Madrid, por no hablar ya en concreto de Malasaña, donde los vecinos tenemos que convivir rodeados de basura, calles llenas de orín, excrementos no solo de animales de 4 patas vómitos, botellas rotas.	1
+7	14	Las únicas calles que se limpian son Espítu Santo y Manuela Malasaña.	0
+7	22	Propongo que salgas con una escoba y empieces a limpiar, detrás iré yo, te lo prometo.	0
+7	1	El ideal sería vivir sin necesidad de tener un policía y un barrendero detrás de nosotros.	0
+7	21	La normativa ya existe ¿Por qué no se hace cumplir? ¿Por qué se hace la vista gorda?	0
+7	17	¿Qué está pasando?	0
+7	12	Las calles apestan.	0
+7	32	No es más limpio el que más limpia, sino el que menos ensucia.	0
+7	13	Es lamentable el estado de las calles en la zona centro de Madrid.	0
+7	4	Hola, en mi opinión no me parece una prioridad a día de hoy.	0
+7	7	Espero que acabe, lo antes posible, con la dejadez que nos han dejado los anteriores desgobiernos de Madrid.	0
+7	26	Un poquito de conciencia social y sentido común bastaría.	0
+7	15	Hasta el centro esta sucio, la periferia Valdebernardo ya da asco.	0
+7	39	¡¿Qué no es prioritario la limpieza de una ciudad?!	0
+7	3	Eduquense y no ensucien tanto.	0
+7	23	Demos tiempo al nuevo gobierno para que puedan estudiar, dialogar y llegar a las mejores soluciones para que Madrid brille!	0
+7	19	Totalmente de acuerdo, educar y sancionar y mientras tanto limpiar y limpiar.	0
+19	40	Totalmente de acuerdo, pero lo que más me indigna es que se podría unir con algo tan sencillo como abrir el campo del moro al público y los jardines de sabatino es decir que dejen de existir vallas y que se conecten esas zonas verdes Madrid río, casa campo, campo del moro y jardines de sabatini y sea para todos a todas horas.	1
+19	44	Personalmente, apostaría por reducir el número de carriles de la calzada actualmente hay tres por sentido, más el carril bus/taxi. Dos carriles serían más que suficientes, se podría aumentar el ancho de la acera a ambos lados de la calle, e incluso se podría construir un carril seguro para los ciclistas.	1
+19	45	Existe la creencia de que soterrar es caro, cuando realmente este tipo de túnel se denomina falso túnel, ya que consiste en abrir la calle, excavar 4 o 5 metros y cubrirlo con vigas y asfalto, sin tuneladoras.	1
+19	47	Soterrar es caro vecin@. Y si no, recuerda la M-30 o el túnel de María de Molina.	1
+19	49	Totalmente de acuerdo, el entorno de la Plaza de España con todos sus túneles y la cuesta de San Vicente la convierten en un sitio tremendamente hostil para los peatones y los ciclistas. Es necesario acabar con eso.	1
+19	50	La cuesta es un infierno; a medida que subes se estrecha la carretera y las aceras de tal manera que si te cruzas con un autobús de subida y otro de bajada, casi te arroyan.	1
+19	53	Ahora que se va a remodelar la Plaza de España sería una oportunidad de oro hacer peatonal la Cuesta de San Vicente para hacer una senda verde que una el centro con el Campo del Moro, Madrid Río y Casa de Campo.	1
+19	55	El cierre de los parques históricos por la noche es necesario para evitar el vandalismo.	1
+19	58	El foco de contaminación para los vecinos y para toda la gente que quiere acceder al centro es inhumana, sin contar los ruidos y los peligros de tener una autopista en un lugar tan emblemático y con tanto tránsito.	1
+19	59	No obstante la idea de continuar el túnel que ahora existe más allá de Príncipe Pío hasta Plaza de España para conectar con el túnel de Bailén es la única salida. Recordemos que esta vía es el único gran acceso desde el Oeste al Centro de la ciudad, carece de alternativas, dada la orografía tan especial de Madrid.	1
+19	60	Efectivamente, creo que olvidamos algo fundamental, hay una salida de la M-30 que va a dar directamente a la Cuesta de San Vicente y es el paso obligado para poder acceder a la Avda de Portugal y la carretera de Extremadura, zonas muy pobladas y que necesitan que se les garantice la movilidad y el acceso al centro como cualquier otra zona.	1
+19	46	La opción de Zamuntx es muy sensata, me parece que no se puede comparar la distancia que se soterró con la M30 con la que se soterraría con la cuesta de San Vicente, que sería mucho menor.	0
+19	56	Se debería hacer un estudio serio sobre las alternativas, pero lo mejor serían los aparcamientos disuasorios y pensar que cualquier reducción de carriles afectaría también a los autobuses de la EMT como pasa en O'Donnell.	0
+19	43	Yo no veo que sea tan fácil como lo plantea Zamuntx. Si pudiera hacerse según su idea, problemas 0 pero resulta que bajo la cuesta de San Viciente, pasa el trazado de la red de Renfe que va dirección a Pirámides, así como el trazado de la línea 10 de Metro. ES UN CONTRAARGUMENTO CITANDO OTRO ARGUMENTO	0
+19	42	Con una cuesta de San Vicente peatonal o más accesible podría ser una pasada bajar a Madrid Rio/Casa de campo rodeados del Campo del Moro y el Templo de Debod.	0
+19	41	Aprovechar la reforma de Plaza España para unirlo peatonalmente con Madrid Río.	0
+50	62	En una vía con tanta circulación y habiendo suficiente espacio para poner un carril bicicleta, sería más seguro y conveniente separar el tráfico.	1
+50	70	Me cuesta creer que utilices la bicicleta por Madrid y estés en contra de esta medida, si visitas otras ciudades como Barcelona te das cuenta que aquí los ciclistas estamos vendidos.	1
+50	74	Apoyo la propuesta y lanzo esta complementaria. Una propuesta de regulación real de vehículos eléctricos ligeros, que ya se comercializan y que actualmente, en Madrid están en un limbo, cuando en otras ciudades y países son una realidad realmente efectiva, ecológica y sostenible.	1
+50	76	Obviamente Madrid no es una ciudad preparada para las bicicletas, tanto por la infraestructura como por la educación de los usuarios de las mismas.	1
+50	77	No debemos criminalizar un colectivo entero, basándonos en alguna que otra infracción de tráfico.	1
+50	79	Totalmente de acuerdo. Lo cierto es que mucho subimos en bicicleta por la castellana. Desde Legazpi o desde atocha. Y nos la jugamos todo el rato. Agradeceríamos este gesto del nuevo Ayuntamiento para con la movilidad y el aire de Madrid.	1
+50	83	La clave es usar rutas alternativas. La castellana con carril bicicleta seguirá siendo una mala alternativa para los colectivos que describes.	1
+50	87	Estoy de acuerdo con ABG 4 carriles en cada sentido para los vehículos motorizados convierten un bulevar en una autopista. Quitar un carril en cada sentido para dárselo a las bicicletas es beneficioso para todos.	1
+50	90	El uso de la bicicleta, no tiene que conllevar un perjuicio para el peatón. La bicicleta es un medio de transporte más, muy útil en la ciudad de Madrid, y puede sustituir al coche como opción para moverse dentro de la ciudad.	1
+50	93	Si quitas un carril en cada sentido a los coches, adquiere mucha más visibilidad a la vez que bloquea el tráfico. Por tanto, si una persona se queda parada en un atasco y ve gente circular mucho más rápido por el carril bicicleta, quizás se replantee el uso del vehículo motorizado.	1
+50	96	Yo estoy de acuerdo en que sería importante hacer un carril bicicleta en la castellana, pero por el bulevar peatonal que ya de por si tiene una anchura considerable. Me parece que lo que se ha hecho actualmente pintando una bicicleta en un carril de los dos que tiene el lateral es una chapuza que esta ocasionando accidentes tanto para los ciclistas sobretodo turistas como con los conductores.	1
+50	61	Tienes un carril de la Castellana y de otras muchas calles que es para ir en bicicleta.	0
+50	72	Completamente de acuerdo: carril bicicleta y más carril bicicleta en las arterias de Madrid y veremos cómo los madrileños se suben a la bicicleta en lugar del coche.	0
+50	68	Yo creo que por ejemplo, en el tramo norte de Joaquín Costa a Pza de Castilla se puede quitar todo el aparcamiento en batería y entre los árboles plantados hacer un buen carril bicicleta en ambos lados.	0
+50	69	Quien pida un carril segregado los conductores les puede impacientar tener un vehículo más lento.	0
+50	95	Plan anti grafitis. Acabemos con esta lacra: [enlace a propuesta].	0
+50	91	El Ayuntamiento de Madrid invertirá más de 40 millones en completar la red de ciclo-carriles.	0
+50	88	El colectivo en bicicleta por Madrid propone varias alternativas al problema. Podeis echarle un vistazo en esta web.	0
+50	86	Ya es la hora de hacer esto. Me parece una vergüenza que no se lo ha hecho hace años, no sería por falta de espacio.	0
+50	78	Considero mejor otras opciones educación vial, calmado de tráfico en ese tramo, por ejemplo.	0
+50	65	El riesgo real existe y si quieres te saco la estadística de ciclistas atropellados en los últimos años.	0
+50	82	A Rivas se puede iren bicicleta por caminos. De momento es la solución. De todas formas es competencia de la Comunidad, y habría que presionar al Ayuntamiento para que solicitara algo así a Cifuentes.	0
+50	80	También carriles bicicleta para conectar a Madrid capital con los municipios cercanos como Rivas.	0
+50	63	El nivel de seguridad en un carril bicicleta es casi pleno si lo comparamos rodando con tráfico.	0
+50	67	Una opción muy buena que no generaría peligros en las intersecciones sería limitar el uso de los laterales a bicicletas permitiendo el paso a coches sólo para aparcamientos.	0
+61	97	La seguridad mejora en carreteras sin iluminación externa, ya que los conductores centran la atención en lo que importa: la carretera y los coches, que quedan suficientemente iluminados con los faros de los coches.	1
+61	99	Creo que es de vital importancia pues hay muchos tramos de carreteras y vías en las que es muy peligroso circular por su poca visibilidad y más aun cuando existe ya la iluminación instalada hace tiempo.	1
+61	100	Es un tema que hay que estudiar con cuidado, varios estudios indican que en las autopistas, por ejemplo, hay más accidentes cuando hay luz.	1
+61	104	El Ayuntamiento de Madrid ha cortado la luz debido a que el Ministerio no paga y en la zona de Pozuelo de momento hay alumbrado.	1
+61	105	La razón muy simple, han desvalijado el centro de transformación, no quedan ni las puertas. No habrá luz, pero tampoco funcionan los radares. España es así.	1
+61	106	El Reglamento de Eficiencia Energética de Alumbrado Exterior ya establece que en función del tráfico en carreteras o de peatones en aceras, el alumbrado pude rebajarse la iluminancia hasta en un 50 incluso con sensores de presencia que vuelvan al 100 al paso de vehículos y personas.	0
+61	101	Incluso propondría dentro de esta propuesta que se abasteciera con energías renovables, preferentemente pequeñas placas solares en cada farola.	0
+61	98	Países más seguros como Alemania, Reino Unido, etc., no tienen iluminación alguna en las carreteras.	0
+61	103	Tenemos nueva propuesta para hacer un estudio de impacto ambiental de la Contaminación lumínica de Madrid.	0
+72	111	Otras ventajas del trabajo en fin de semana es que puede ser compatible con estudios u otras actividades y que debería redundar en más gente contratada no la misma gente pero más explotada.	1
+72	115	Te echarían a la calle si no abrieran los domingos ya que venderían menos.	1
+72	117	Los sábados y domingos la mayoría se dedican a ir para pasear por que se aburren en casa.	1
+72	120	Es increíble que a los trabajadores nos obliguen a trabajar en festivos, y si no te echan a la calle.	1
+72	124	Pues que también cierren los hospitales los fines de semana. Porque nosotros tb tenemos familia y libramos a diario.	1
+72	129	Cerremos los bares, teatros, restaurantes, metros, autobues, hospitales, residencias, taxis, urgencias, etc., etc. En estos trabajos también hay personas que tienen familias.	1
+72	130	Trabajo en una cafetería y no libro ni un fin de semana se supone que esto se hizo así para que hubiese más empleo, pero los empresarios no se molestan en pagar un sueldo más y nos lo comemos nosotros.	1
+72	136	Tenemos que tener derecho al descanso de lunes a sábado hay tiempo de sobra para comprar.	1
+72	140	Antes hace años cuando abrían el único domingo al mes lo pagaban, y muy bien en las grandes superficies, las pequeñas ni se planteaban abrir un domingo al mes.	1
+72	148	Yo creo que deben abrir los domingos y festivos, que es cuando la gente puede disfrutarlos.	1
+72	149	No todo el mundo puede comprar entre semana con estos horarios que se tienen.	1
+72	150	En cualquier ciudad grande como es Madrid hay comercios abiertos todos los días y a todas horas, no todos tenemos la suerte de poder ir a comprar cuando queremos.	1
+72	141	Desde luego. No respetan ni a los muertos el 1 de noviembre.	0
+72	108	Creo que la conciliación laboral es un derecho, que esta ley ha quitado.	0
+72	123	Aunque sea Lcdo. En CCEE y Dir. De RRHH de una multinacional, no debato ni discuto con gente que como usted Intenta menospreciar y hace comentarios tan simplistas.	0
+72	138	A Cifuentes, Carmena no puede hacer nada.	0
+72	131	Si trabajases en un comercio de lunes a domingo pensarías de otra manera!.	0
+72	125	Apoyo la propuesta y te invito a que apoyes Mayor cuidado del centro de Madrid Gracias!.	0
+72	121	Lo que hay que tener en cuenta, es, que más horas de apertura no conlleva mayor cantidad de empleados.	0
+72	126	Hay que conciliar la vida laboral con la familiar. Por favor, ayuden esta propuesta.	0
+72	145	Quien hace la ley siempre hace la trampa, y los que sí trabajamos en esto lo sufrimos.	0
+72	146	No he trabajado en este sector nunca aunque tengo familiares en él.	0
+72	114	Antes se abría un domingo al mes y todos nos apañábamos.	0
+72	128	Mejor que cerrar. Regular correctamente para que no se produzcan abusos.	0
+72	118	Salvemos la vida de los barrios, consumamos cultura, ocio, paseos.	0
+72	132	Todo para que vengan a tomar un simple café o a descambiar unas zapatillas o porque les apetece estar sentados en los sofás del comercio.	0
+72	139	Que no es competencia del Ayuntamiento, que esto lo regula la Comunidad.	0
+72	144	Solo una pregunta, antes de esta ley de libre apertura, no comías? no tenías ropa o electrodomésticos en casa?	0
+72	134	Estas muy confundido. Ellos abren casi 60 días al año más con el mismo personal que tenían cuando no abrían los festivos.	0
+86	153	Creo que es muy necesario al igual que el contenedor de reciclar vidrio, bricks, etc. Yo ya no sé qué hacer con tanto bote con aceite usado porque me niego a tirarlo por el desagüe.	1
+86	160	Apoyo totalmente la propuesta, pero no soy partidario de dejar contenedores en las calles, ya que sí por alguna causa ardiera por vandalismo o fortuito podría ser muy peligroso.	1
+86	161	Para recoger el aceite se requiere atención personal porque depende de donde lo traiga cada cual y se puede derramar y es peligroso.	1
+86	163	No estaría mal dejar un contenedor para ello que suelen ser más pequeños que los de vidrio o papel cercanos a estaciones de metro en los barrios o a los colegios.	1
+86	167	Estoy de acuerdo contigo, en Centro por ejemplo los puntos limpios itinerantes funcionan solo 2 horas y cada día están en un sitio, así que es complicado poder llevar algo a los puntos limpios, sobre todo si no dispones de tu propio vehículo.	1
+86	169	Tened en cuenta que el aceite contamina incluso más que el plástico y el vidrio y en todos los domicilios se hace uso de él.	1
+86	171	Ya hay puntos limpios para dejar el aceite, espero que nadie lo tire por el fregadero. Pero sí me parece bien, dar más facilidades para que podamos tirarlo en contenedores repartidos y colocados junto los de vidrio y papel, por toda la ciudad y que se pueda tirar con la botella incluida.	1
+86	173	Tiene todo el sentido del mundo porque los puntos limpios no son lugares de fácil acceso. No es molestarse en ir a ellos, es que puede ser una excursión e incluso así sin un coche es bastante complicado llegar a ellos.	1
+86	174	En País Vasco tienen este sistema en el que se intercambia el bote de aceite lleno por otro vacío y que funciona de forma muy eficiente como ejemplo sobre lo que puede valorarse para hacer.	1
+86	178	Con esto se podría contribuir además a la producción de biodiesel. Generando cultura de reciclaje del aceite, podríamos bajar el precio del petroleo y contaminar menos.	1
+86	181	La gente es vaga a la hora de reciclar. Tampoco hace falta ir al punto limpio cada vez que tengamos que tirar una pila o una bombilla. Estas cosas también se pueden acumular e ir a tirarlas cuando tengamos unas cuantas.	1
+86	184	El problema que muchos lo usarán para echar el aceite de los coches, que para eso es un punto diferente, además que hay empresas que lo hacen para conseguir el biodiesel.	1
+86	155	También me parece muy buena la idea de una recogida periódica especial como se hacía con los muebles.	0
+86	183	No estoy de acuerdo con lo de los contenedores a no ser que estén muy bien diseñados asegurando que no son peligrosos.	0
+86	152	Totalmente de acuerdo, que pongan un contenedor de reciclaje de aceite al lado de los contenedores de vidrio y papel.	0
+86	156	Creo que sería más fácil aumentar el número de puntos limpios móviles y los horarios de los mismos.	0
+86	162	Hace poco descubrí que tengo un punto limpio móvil en la calle paralela donde vivo. Pero no me sirve de mucho porque es un día a la semana y a una hora en la que ya me he tenido que ir a trabajar.	0
+86	176	Ya existe. En todos los puntos limpios que hay en Madrid. Solo hay que molestarse en ir a ellos.	0
+89	186	He utilizado este servicio y me ha parecido eficiente.	1
+89	188	Una cosa es que tomen nota, que supongo que lo hacen, y otra muy distinta que aparezcan.	1
+89	195	En Barcelona hay un día para la recogida de muebles y enseres. Favorece el reciclaje como bien se explica.	1
+89	199	Yo he formulado una propuesta en la que además incluyo que la recogida sea a domicilio pues creo que hay mucha gente mayor que no tienen posibilidad de bajarlos y que se habilite un espacio para guardar todos los que se les pueda dar un segundo uso para gente que lo necesite.	1
+89	185	El servicio existe y funciona bien llamando al 010 tardan muy poco y es gratuito.	0
+89	187	Claro que sé que el servicio existe pero te aseguro que en mi barrio o nadie lo conoce o nadie lo usa por desconocimiento.	0
+89	190	Puedes solicitarlo también a través de la web del ayuntamiento y en las oficinas gratis.	0
+89	196	Creo que la mejor solución para eso es fomentar el reciclaje de este tipo de cosas regalándolo.	0
+89	194	La pobreza y la exclusión en España han aumentado alarmantemente en los últimos años.	0
+89	201	Es la web para solicitarlo online.	0
+89	191	Y además el 010 es de pago.	0
+89	193	La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos.	0
+89	189	Puedes llamar al 91 529 82 10 que es el equivalente al 010.	0
+109	202	Yo por mi parte, lo siento, pero grafittis, ningúno. A mi no tiene por que gustarme ver mi fachada pintada con algo que no he elegido.	1
+109	203	En Madrid arte urbano poco y vandalismo mucho. Tolerancia cero al graffity.	1
+109	204	Apoyo la limpieza pero los graffitis me gustan, no veo nada antihigiénico en ello.	1
+109	205	Efectivamente, no estamos en contra de los graffittis, estamos en contra de las pintadas sin sentido. Graffitis artísticos sí tienen cabida, el vandalismo no.	1
+109	206	Estoy de acuerdo sobre todo en que el barrio necesita mejoras en algunas calles y aceras y el tema de la limpieza y los contenedores. Lo único que discrepo es en el tema de los graffitis, a mí sí están bien hechos me gustan, es arte urbano.	1
+109	212	Buenos días a tod@s, la limpieza es una de las partes de una sociedad que tenemos que cuidar tod@s sin excepción, es tan importante como la seguridad de una ciudad o la sanidad para las personas.	1
+109	214	Estoy de acuerdo con vosotros, pero tenemos que tener en cuenta que toda la labor no es del Ayuntamiento, también con concierne a nosotros el educar en el respeto a los demás y a la ciudadanía y concienciar a las personas que la calle no es del Ayuntamiento sino de todos nosotros y por ese motivo debemos cuidarla y respetarla.	1
+109	215	La falta de civismo que esta sociedad a creado es intolerable, no puede haber un barrendero limpiando una y otra vez el mismo día la misma calle, hay que limpiar de acuerdo, pero hay que acabar con esta impunidad para la gente que deja bolsas de basura, botellas, muebles, colchones, cartón, cacas de perro, etc.	1
+109	210	Conozco Aluche y es cierto que se ve antiguo y sucio. Dejo mi voto por si sirve de ayuda.	0
+109	209	Habría que diferenciar los graffittis. Deberían crearse zonas para que puedan realizar gtaffittis y el resto debería multarse por hacerlo.	0
+109	216	Aprendamos a mantener limpia España.	0
+109	211	Estoy de acuerdo, es deplorable como se encuentra el barrio.	0
+109	208	Conozco la zona y estoy de acuerdo pero estoy más de acuerdo con poner una tasa para las mascotas.	0
+152	223	Yo creo que la propuesta está mal planteada de base. El hecho de tener placas solares en los tejados de los edificios, ya puede suponer un ahorro a las Comunidades de vecinos-casas unifamiliares. No es necesario recurrir a ayudas públicas-subvenciones para poder instalarnos las placas solares en nuestros edificios.	1
+152	228	subvenciones. Lo que hace falta es una regulación adecuada, todo lo contrario del impuesto al sol de Soria a la fotovoltaica.	1
+152	229	Y por supuesto hacer instalaciones de calidad que esto no es tan sencillo que algunos piensan y tampoco valen todos los tejados.	1
+152	234	En los últimos años se dieron ayudas para poner ascensores y para poner calderas mejores. Ahora hay que dar un paso más en mejorar Madrid.	1
+152	235	Serían miles de puestos de trabajo, con los ingresos correspondientes para el Estado a través del sistema impositivo vigente y el incremento en consumo, lo cual revitalizaría la economía local, todo ello unido al ahorro energético y de contaminantes.	1
+152	236	Que en España graven el autoconsumo es una verguenza. En Alemania con menos sol tienen más instalaciones de energía solar. Tenemos que aprovechar nuestros recursos.	1
+152	239	Madrid debería declararse Ciudad por el autoconsumo. No sé si es competencia del Ayunt. Pero dada la zancadilla que el ministerio y las empresas eléctricas le está poniendo al autoconsumo energético en España, sería un buen mensaje político.	1
+152	240	Esto no es una utopía, es una realidad y una libertad ya presente en muchos países donde, por ejemplo, tú puedes llegar a Ikea Inglaterra y comprar tu kit solar para autoconsumo.	1
+152	222	Pues no es mi intención mentir a nadie, quizá tenga desconocimiento, pero si se genera una industria potente dudo mucho que no se reciclen las placas solares en un futuro.	0
+152	237	La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos que no pueden alimentar a sus hijos.	0
+152	218	Apoyo totalmente esta propuesta y el ayuntamiento Debería dar ejemplo poniéndolas en todos aquellos edificios públicos en los que sea factible.	0
+152	227	Estoy de acuerdo con la propuesta, la pena es la nueva ley que existe, impuestos y más impuestos, espero que algún día esta propuesta sea una realidad no un metodo de ingresar dinero por impuestos.	0
+152	242	Además si en España no tenemos apenas horas de sol.	0
+152	226	Hoy se ha aprobado el impuesto al sol En los comentarios he puesto unos números sobre lo que se puede esperar de la fotovoltaica.	0
+152	238	Os recuerdo que España es el país de la OCDE donde más avanzó la desigualdad durante la crisis.	0
+152	217	Si te importa el Medio Ambiente igual apoyarías también esta propuesta.	0
+417	243	El 112 es gratuito. El 010 debería serlo.	1
+417	244	Si poniendo el 010 gratuito se aumenta la participación ciudadana en la detección de las incidencias, está claro que el ayuntamiento podría poner gratis este servicio.	1
+417	245	Son teléfonos de servicio público y cuando se usan no debería tener cargos adicionales.	1
+417	246	Me parece justo que tales teléfonos sean gratuitos por tratarse de servicios prestados al ciudadano.	1
+417	247	Como uso social y de emergencias debería ser gratuito y accesible a todos.	1
+417	248	Todos los teléfonos de información y los de emergencia policía, bomberos, samur, etc. Deben de ser gratuitos, ya que la llamada es por una necesidad.	1
+417	249	Creo que no es necesario que sea gratuito. Mucho 91 resulta incluido en las tarifas planas de fijo y existe uno para el 010 que es el 91 529 82 10.	1
+417	259	El 010 y el 91 529 82 10 es lo mismo. El segundo se utiliza para llamar fuera de Madrid. El 010 es una llamada local, no es de tarificación especial.	1
+417	260	Los números de tf, de servicios públicos habrían de ser gratuitos, sería una forma de animar al ciudadano a cooperar con el ayuntamiento y la sociedad, los impuestos son justo para también cubrir esa serie de servicios.	1
+417	261	El 010 es de pago, como todo lo que han hecho los liberales durante estos muuuuchos años que les hemos soportado, lo que tiene que hacer el Ayuntamiento es definir con su operadora que el coste se le repercuta, y a partir de ahí no nos cobran el importe de las llamadas.	1
+417	270	El 010 tiene un equivalente en teléfono fijo: 915298210 Así no te cobran cuando tienes las llamadas a fijos incluidas en tu tarifa.	1
+417	262	Lo malo es si alguien hace un mal uso y al ser gratuito está constantemente llamando y bloqueando el servicio, entiendo que en ese caso se le puede restringir esa llamada por hacer mal uso del servicio.	0
+417	255	A mí una vez me robaron y cuando fui en un bar a llamar a la policía, me di cuenta de que no podía porque es de pago.	0
+417	256	Si tienes una emergencia tienes que llamar al 112 que es gratuito y engloba y coordina todos los servicios.	0
+417	268	Si las compañías de Teléfonos hacen un enrutado inteligente es normal que cobren por ello y la única alternativa sería que lo pagase el ayuntamiento.	0
+417	250	Me parece absurdo que el Ayuntamiento se deje el dinero en eso existiendo alternativa sin coste.	0
+417	257	Teniendo en cuenta que la gente tiene smartphones o a lo sumo agendas, no es tan complejo el método.	0
+417	254	Lo que debieran hacer es volver a hacer que el 010 sea gratuito, no tener un nº que apenas nadie conoce y difícil de memorizar.	0
+417	264	Solo se debe pagar si se hace uso inadecuado! a determinar por una serie de reglas básicas. Pero por defecto, estas llamadas deben ser gratis.	0
+417	252	También es verdad que si no suponen un mínimo coste se corre el riesgo de hacer un mal uso de esos números de teléfono y entonces habría que tener una plantilla de teleoperadoras sobredimensionada.	0
+417	263	También se puede registrar en la web la incidencia de modo gratuito.	0
+417	272	Yo creía que eran gratuitos, si no es así por supuesto que apoyo su gratuidad.	0
+417	253	Estimados votantes de podemos: no hay nada gratis. Si no lo paga el usuario lo paga el contribuyente.	0
+494	278	Los graffitis no son arte, son manchas sucias para las pareces y cierres.	1
+494	280	Las pintadas no so arte, si saben pintar, que pinten cuadros, o las paredes de su casa, pero que no ensucien lo de todos.	1
+494	282	Limpieza integral de fachadas además para eso pagamos ibi.	1
+494	283	También es una cuestión económica: limpiar los grafitis nos cuesta a los madrileños 12 millones al año.	1
+494	284	El tema de los grafitis es serio, en nuestra comunidad gastamos un dineral en repitar paredes, entradas de garajes, puertas de entradas.	1
+494	286	Por supuesto que hay que poner multas, la sanción es el único método disuasorio eficaz.	1
+494	297	Esas pintadas ni son arte ni son nada, es mierda en las paredes que hay que quitar.	1
+494	289	Estoy de acuerdo con tu propuesta de limpieza integral, pero las brigadas de investigación y patrullas de vigilancia me parece mucha inversión.	0
+494	275	los grafiteros profesionales tienen su espacio para expresarse	0
+494	279	Pintar las fachadas de los edificios con nombres o apodos de personas o grupos no es arte.	0
+494	285	Y para los infractores sanciones serias para que se les quiten las ganas.	0
+494	291	Una propuesta hermana sobre habilitar espacios autogestionados para los grafiteros.	0
+494	274	murales artísticos, con la colaboración del ayuntamiento y de los grafiteros artistas.	0
+494	276	Considero que un garabato en una fachada, igual da su dimensión, no es arte. Pero reconozcamos que hay auténticos artistas y urbanos que necesitan espacios donde expresar este arte callejero.	0
+494	296	Es un problema de educación y conciencia ciudadana.	0
+494	298	No entiendo cual es el beneficio. Nuestra ciudad parece un basurero.	0
+507	300	Por mucho que hagas rascacielos y apartamentos de lujo en el sur, seguirá habiendo desequilibrio económico ya que el entorno no lo cambias, al igual que no cambias la delincuencia y la gente con la que convives.	1
+507	301	Si la zona sur esta mucho más poblada y los grandes centros de trabajo y oficinas se construyen en el norte, se produce un ineficiente trasvase diario de personas hacia el norte que lo único que hace es aumentar el tráfico, la contaminación y reducir calidad de vida.	1
+507	304	Creo que lo que propones resultaría echar a la gente que vive en la zona sur de alquiler a una zona más barata y que sólo pervivirían los que ya son propietarios. Justamente eso ha pasado en Méndez alvaro en muchos casos.	1
+507	306	Basta de propuestas como la de la Operación Chamartín, cuando en el sur hay desastres como las vías del tren, la M40 y otras carreteras que dividen y destrozan barrios y nadie ha dicho ni pío porque no hay intereses creados. Que se solucione primero el sur de Madrid antes de volver a dejar precioso el norte a costa de machacar a los de siempre.	1
+507	307	Para que este barrio impulse la inversión hay que fomentar lugares de ocio educativo, teatros, cines, museos, eso si sería una buena inversión porque tenemos espacio para aparcar sin atascos, es una zona amplia y podemos llegar a hacer un barrio que promueva la cultura, y a su vez el consumo en restaurantes, terrazas, hacer incluso alguna terraza mirador en el parque la Gavia.	1
+507	308	Si además les permites desplazarse en transporte público con una gran oferta de líneas de autobús, metro, cercanías, etc., el tráfico mejoraría en la zona sur y en todo Madrid.	1
+507	309	Es hora de que el ayuntamiento garantice el cumplimiento de este derecho fundamental cuando las personas no son capaces por falta de recursos. Al igual que estamos reclamando la remunicipalización de determinados servicios públicos, demandamos también la remunicipalización de un derecho básico como es el comer que muchas personas en nuestra ciudad no pueden ejercer por falta de medios económicos.	1
+507	303	Esta claro que si la zona mejora el nivel de vida subirá pegado a esa zona, pero también se mejorará el nivel económico de la gente, mejorando la prosperidad de los negocios de la zona y se mejorará la cantidad de trabajo.	0
+507	305	Una gran propuesta. A ver si el actual equipo de gobierno hace algo con contundencia con los barrios marginados del sur.	0
+615	312	No se trata de meterse con los ciclistas se trata de que cumplan las mismas normas que el resto.	1
+615	313	Igual que los ciclistas exigen y con razón que se les respete ellos deben respetar las normas de circulación.	1
+615	323	Ir en bicicleta está muy bien y se debería promocionar pero hay que obligarles a comportarse como cualquier vehículo.	1
+615	334	A los ciclistas ya se les multa cuando incumplen las normas de tráfico por lo que esta propuesta carece de sentido.	1
+615	336	Es cierto que el ciclista tiene otra agilidad, como el motorista; pero las normas son standard y las tenemos que cumplir todos.	1
+615	340	Porque lo hacemos todos y sabemos que no es para tanto. Una persona a bicicleta está mucho más cercana a un peatón que a un coche.	1
+615	341	Otra cosa es que no les multen cuando no les ven, pero en eso son similares a cualquier peatón que cruza por medio de la calle sin paso de cebra o a cualquier vehículo que hace pirulas o no respeta el límite de 50 en ciudad o de 30 en los carriles marcados a dicha velocidad.	1
+615	342	Algunos se creen que Madrid es Copenhague o Amsterdam. Algunos vivimos a muchos kilómetros del curro y problemas para ir en bicicleta, parece que habéis descubierto América!.	1
+615	348	Estoy cansada de encontrarme con ciclistas que, en vez de ir por su carril bicicleta y en Sanchinarro existe y está bien diferenciado del carril se emperran en ir por la calzada.	1
+615	351	Los ciclistas por las aceras son un peligro total para el peatón, y, además cuando se lo adviertes, te suelen increpar.	1
+615	343	Son bastantes los usuarios de bicicletas y más aún aquellos que por turismo vienen a nuestra Ciudad de Madrid, los que incumplen las normas de tráfico a las que deben cumplir por utilizar este medio de transporte.	0
+615	350	Estupendo que se multe ya está bien los peatones tenemos derecho a circular por las aceras sin estar pendiente a los ciclistas.	0
+615	310	Estoy de acuerdo, pero no son sólo los ciclistas quienes incumplen las normas.	0
+615	316	El tema es que pocos conductores conocen las normas de circulación con respecto a las bicicletas.	0
+615	317	Primero, usa las minúsculas. Segundo, tu propuesta no tiene sentido porque sí se multa a los ciclistas que se saltan las normas de circulación.	0
+615	345	Creo que tanto peatones, ciclistas, conductores de coches y motos debemos cumplir las normas.	0
+615	333	Anda que no hay conductores que no utilizan el intermitente, y se saltan semáfotos, ceda el paso,.	0
+615	335	Difundir que cualquier usuario de la vía ha de cumplir las normas, conocidas por todos aún no teniendo carnet de conducir el que quiera es absurdo.	0
+615	318	Qué manía con perseguir a los ciclistas.	0
+615	324	Andar en bicicleta en Madrid, en las condiciones actuales, provoca accidentes de por sí.	0
+615	327	El que lleven una bicicleta no dá derecho a saltarse todas las normas.	0
+615	330	Por que dices que la gente que monta en bicicleta tiene menos recursos económicos? Por que la bicicleta cuesta menos?	0
+615	315	Pienso sin embargo que las multas serían más efectivas por numerosas que por ejemplares.	0
+615	319	No es que defienda que el ciclista no cumpla sus deberes, pero creo que es ridículo centrarnos en sus deberes cuando apenas hemos avanzado mínimamente en cuanto a sus derechos.	0
+615	338	Ni que todos todos los ciclistas fuéramos por la acera echando a los peatones a las calzadas.	0
+615	322	Concienciarnos de que las aceras son un espacio urbano reservado al peatón es un requisito necesario para tener una ciudad habitable.	0
+615	332	No veo por qué los conductores de vehículos han de pasar examen y los ciclistas no.	0
+629	355	Hay que ser vago, y gentuza para no poder coger las dos cosas que uses en cada comida y tirarla a la papelera que hay a 10 pasos. Una buena multa es lo que hace falta.	1
+629	358	Debería sancionar a la gente que ensucia la ciudad, pero creo que mejor que multas serían trabajos sociales limpiando la ciudad, es una mejor forma de concienciar.	1
+629	360	Los servicios municipales la recogen. ¡pero no es su misión! ¡Esa basura no debería estar ahí! ¡Son los vecinos, insolidarios y sucios, que se dedican a tirar sus deshechos en cualquier parte!	1
+629	363	Da pena ir por un parque y ver todo lleno de basura. Entre semana incluso, lleno de latas, envoltorios de sándwiches, papeles, botellas, de todo.	1
+629	366	Colillas, cáscaras de pipas, envoltorios. Hace falta una campaña de concienciación al ciudadano de que la limpieza en Madrid es cosa de todos.	1
+629	367	Haría falta un análisis Dafo para determinar cuál es el verdadero problema, trabajar con un equipo multidisciplinar, ya que es muy necesario tanto para la tarea de acompañamiento como para el desarrollo social y comunitario, y así esclarecer la paga inclusiva para llevar a cabo esta labor.	1
+629	369	Yo en principio no creo que sea una buena idea sancionar, aunque en algunas ocasiones es necesario para concienciar creo que es una buena idea ayudar a la gente a encontrar soluciones para sus problemas y no darles excusas.	1
+629	359	No debemos acobardarnos si vemos como un vecino ensucia la calle con porquerías: Desde un chicle a una nevera pasando por bolsas de ropa y excrementos de perro.	0
+629	368	Ningúna medida sancionadora si no va acompañada de una campaña importante y sería de concienciación ciudadana sobre la limpieza de nuestra casa común.	0
+629	352	solo entendemos cuando se nos sanciona	0
+629	357	En lugar de sancionar, ¿Por qué no mejorar el servicio de recogida de muebles?	0
+629	354	Hay que insistir y echar la bronca. Y si el sujeto en cuestión se pone violento, se llama a la policia.	0
+629	365	Hay una propuesta muy buena para acabar con las cacas de los perros en la calle. Por favor votadla y dadle difusión.	0
+629	356	yo no impondría sancionas económicas, impondría charlas y seminarios trabajos sociales limpiando jardines, plazas.	0
+629	361	Creo que es muy difícil perseguir a las personas que ensucian la ciudad. Deberíamos ser los propios ciudadanos, los que recrimináramos estos comportamientos a los que ensucian.	0
+878	371	Hay estudios científicos probados sobre la eficacia del pienso, en Ïtalia y en otros países. Así que su eficacia a día de hoy no se cuestiona.	1
+878	375	Está muy bien introducir depredadores naturales, que es un método de control poblacional complementario	1
+878	376	Con depredadores naturales es imposible dado el gran número que hay, habría que optar por capturas controladas	1
+878	377	El hambre no es la solución, eso sólo mata pichones y enferma a todos. Es un caso parecido a no dar de comer a los gatos, lo único que pasa es que las crías mueren, los jóvenes enferman y los adultos sobreviven de manera lamentable, pero en ningún caso se reduce la población.	1
+878	373	Mi preocupación con el pienso anticonceptivo es si realmente hay estudios fiables y que se hayan realizado con el suficiente tiempo como para estar seguros de que no provoca el mismo efecto en otras aves y/o animales que puedan ingerirlos	0
+878	379	Eso de los gorriones no es cierto, es un falso mito como lo de que las cotorras acaban con los gorriones.	0
+878	370	ética que pasa por la administración de pienso anticonceptivo	0
+879	380	Este sistema ha dado muy buenos resultados ambientales en diferentes países, logrando llegar a altos porcentajes de reciclado de envases.	1
+879	381	En Alemania está instalado hace años y es algo que incentiva el reciclaje en el hogar ya que te pagan hasta 25 centimos por botella de plástico.	1
+879	382	Las empresas ganan reutilizando los envases, gana el medio ambiente disminuyendo el consumo de plástico y evitando tragedias como las inmensas acumulaciones de plástico en los mares.	1
+879	384	Este metodo implica que nadie te va a pagar por reciclar - Pagas el dinero que luego te van a devolver al comprarlo.	1
+879	388	Yo sería partidario de este sistema si el envase no se deteriorara y se conservara intacto esto facilitaría que se devolviera al envasador.	1
+879	390	penalizaría a los fabricantes que utilizaran envases innecesarios lease envases de cartonpapel para contener por ejemplo varias latas de atun etc.	0
+900	393	No tiene sentido forzar a la banca a mantener unos inmuebles para alquilarlos. Son bancos, no inmobiliarias, su negocio no es el alquiler.	1
+900	398	La solución sería que el gobierno se encargara de ayudar a alquilar esas viviendas a gente a un precio justo para ellos, así todas las partes saldrian ganando.	1
+900	401	Yo también propondria multar a todos aquellos que firmaron una hipoteca sin leerse las condiciones, ya que por culpa de esto los bancos se han quedado con muchos pisos.	1
+900	402	Porqué no afectaría a particulares. Creo que tener una casa vacía afecta igual sea quién sea el dueño. Gravar con impuestos a todos parece lo más justo.	1
+900	403	Gracias por tu opinión. Desconozco cómo lo han hecho en Barcelona, aunque creo que la medida afecta exclusivamente a los bancos. No creo que haya ningún problema legal en diferenciar entre bancos y particulares.	1
+900	407	La solución sería que el gobierno se encargara de ayudar a alquilar esas viviendas a gente a un precio justo para ellos, así todas las partes saldrían ganando.	1
+900	409	Apoyo ya que los bancos son empresas y como tal tienen la obligación de responder frente a los gastos, cosa que no hacen.	1
+900	411	Las viviendas propiedad de los bancos se ocupan reiteradamente, ante la impasibilidad e inacción de los mismos, cuando el hecho se les comunica.	1
+900	415	Porque los bancos evitan poner a la venta o alquiler las casas como estrategia de especulación urbanística, incrementando con ello artificialmente el precio de todos los inmuebles.	1
+900	416	Con esta medida sólo se les incita a que pongan a la venta o en alquiler los inmuebles, si lo hacen, no tienen multa.	1
+900	418	No lo vende porque no hay demanda y punto. Solo faltaría que obliguen a las empresas a vender los productos aun cuando no tienen compradores.	1
+900	417	Resulta que soy economista veo que tu no no veo el motivo por el que un banco quiera no vender o alquilar una vivienda para especular.	0
+900	413	Es algo complicado solicitar a una organización privada que obren en virtud de quienes por torpes y cegatos obraron mal propiciando que fuesen embargadas sus viviendas.	0
+900	406	Es más lógico y tiene menos problemas legales el no hacer una discriminación específica contra los bancos.	0
+900	397	El de la ocupación de las misma que legalmente es un ilícito penal pero que en la practica es un problema ético, de justicia y también de convivencia.	0
+900	395	Si se multara a los bancos solo todo primera la vivienda habitual y que fuese proporcional a los metros cuadrados construidos.	0
+900	396	Estoy de acuerdo con la medida, pero falta algo de marketing. No se trataría de multas, si no de incentivos que penalizarían el mantener la vivienda fuera de mercado.	0
+900	410	El de la ocupación de las mismas que legalmente es un ilícito penal pero que en la práctica es un problema ético, de justicia y también de convivencia.	0
+900	400	Contestando a anonimo. Yo multaria al despediria al departamento de riesgos, a su director y al consejo de administración del banco que permitieron que firmaran una hipoteca sin leerse las condiciones, gente que no cumplia la politica del banco.	0
+900	392	Propondría acuerdos con los bancos, que cedan inmuebles por un tiempo determinado 3 años por ejemplo para la EMV y dar más alquileres sociales.	0
+900	405	Si como he contestado en otra opinión de otro usuario de este sitio web que decía que no son inmobiliarias y que yo estaba de acuerdo con él, ya esta dicho todo: a crear leyes, normas y demás para que a partir del día siguiente a publicarse estas en el BOE ya no puedan tener ninguna vivienda en su poder!	0
+900	414	Es una medida que desincentiva el cáncer de la acaparación de viviendas como forma de inversión, abarataría el alquiler e indirectamente reduciría el precio de la vivienda.	0
+900	399	¡Por supuesto! No hacerlo sería fomentar la especulación.	0
+965	422	Si los trabajadores, empresas y consumidores pagamos impuestos por nuestra actividad económica, las parroquias no deben ser menos.	1
+965	423	Todas aquellas organizaciones sin animo de lucro no pagan IBI todos lo pagan o nadie, no se pueden hacer excepciones.	1
+965	425	Es obvio que la aplicación del impuesto no puede ejercerla el Ayuntamiento ya que la existencia del Concordato de 1953 firmado con el Vaticano y de la Ley de Financiación de 1979 lo impide.	1
+965	428	La Iglesia no presta servicios al Ayuntamiento, en todo caso a la ciudadanía. Que pague quien reciba los servicios.	1
+965	431	Que la Iglesia no pague IBI por los bienes dedicados al culto, es debatible pero que si tiene un inmueble y lo alquila obteniendo un beneficio económico por ello el que no pague impuestos por dicho beneficio es un atentado a la justicia social.	1
+965	433	Yo no creo que haga tanto por sus semejantes, y como ciudadano que paga sus impuestos creo que al no pagar el IBI la iglesia nos está robando.	1
+965	434	Creo que sólo con lo que hace Cáritas parroquial está justificado que no se pague IBI o a dónde van todos lo que están sin trabajo a pedir algo. A comedores sociales, muchos de ellos de la iglesia, o a cáritas.	1
+965	435	La Mezquita de Córdoba es un ejemplo. Ahora ya creo que no puede, por una ley aprobada en 2015 pero antes la Iglesia tenía potestad para inmatricular a su nombre los edificios que no tuvieran dueño.	1
+965	420	¿también aplicamos ibi a los comedores sociales que atiende la iglesia para dar de comer a miles de personas todos los días?	0
+965	429	Yo estaría de acuerdo en que la iglesia pague el IBI de las muchas viviendas que tiene a su nombre, y que incluso alquila para sacar beneficios y por las que no paga el IBI y otros edificios que no tengan un uso religioso o con fines sociales.	0
+965	419	La iglesia dispone de suficiente economía como para pagar el IBI.	0
+965	427	El IBI grava la propiedad. Punto.	0
+965	424	Una vez que has pasado el calvario de registrarse apoya las mejores propuestas recuperar el edificio del demás en la medida de lo posible y que devuelva todos los bienes públicos de los que se ha apoderado.	0
+965	421	Los sindicatos pagan el IBI de aquellos inmuebles de los que son propietarios.	0
+1085	439	No ves el delito no puedes sancionar al ciudadano. Sería ver al infractor in situ.	1
+1085	448	Hay que ser responsables con nuestros animales, recoger sus heces no cuesta nada.	1
+1085	449	Yo tengo perro y siempre recojo los excrementos y me parece una guarreria tener que ir por la calle esquivando mierdas.	1
+1085	454	De acuerdo con esto, de hecho es lo natural. Enfrente de mi casa hay un arenero y mi perra desde cachorro hace ahí sus necesidades y nunca lo hace en la acera, no le gusta.	1
+1085	463	Estoy de acurdo con tu propuesta y no parece una utopía, . Ha día de hoy los perros tienen seguros que lo incluyan como responsabilidad civil, llevan un chip con su nombre y raza.	1
+1085	462	El coste de las pruebas de ADN debería ser asumido por el propietario de la mascota.	0
+1085	464	Como siempre, al principio habrá protestas y gente incumplidora, igual que pasó con el tabaco, pero unas cuantas multas ejemplares o la confiscación del animal.	0
+1085	442	Estoy totalmente de acuerdo con la propuesta de carliños y además creo que es justo que todos los que tengan mascotas y las saquen a la calle para lo que sea, deban de pagar un impuesto.	0
+1085	436	En teoría ya se contemplan multas por no recoger los excrementos.	0
+1085	446	No estoy dispuesta a pagar las bolsitas de las cacas de los perros, que las paguen sus dueños.	0
+1085	452	No estoy de acuerdo pero Creo que la solución que das es muy cara aquí dejo la mía.	0
+1085	440	Cuesta más el análisis de la caca que la sanción que se le imponga al guarro que no la ha recogido.	0
+1085	458	Da asco ver los días de lluvia como los coches hacen salpicar el agua embarrada y sucia de los charcos sobre las aceras y fachadas.	0
+1085	460	Hasta donde yo sé, las mascotas no tienen derecho a pensión.	0
+1085	437	Carlos deja bien claro que se multen a los dueños que no recogen los escrementos de sus perros.	0
+1085	447	Jolín y cuanto cuesta un paquete de esas bolsas en el mercadona? tampoco creo que desbarate el presupuesto mensual.	0
+1085	450	Que basura de proposición.	0
+1085	443	Creo que los que tienen perro tendrían que pagar un impuesto.	0
+1114	468	Es muy importante que los niños aprendan de pequeños a respetar y amar a los animales para conseguir acabar con el maltrato animal y hacernos más conscientes de que somos un animal más y todos merecemos respeto.	1
+1114	472	Lo veo un poco exagerado el estudio para la ciudadanía es una asignatura y hay muchas cosas que enseñar a los niños aparte del respeto a todo y todos.	1
+1114	474	Es muy importante la educación y respeto pero porque nunca se habla de animales que están en peligro de extinción pero si de perros y gatos.	1
+1114	473	No son excluyentes pero en la vida siempre se prioriza en base a una escala de valores universal.	0
+1114	476	pero en lo que concierne al tema del maltrato animal a día de hoy y a estas alturas no hay relativismo moral que valga.	0
+1114	470	Considero muy necesario que desde las escuelas se implante un programa de ética para con los animales no humanos no sólo para con las personas.	0
+1114	477	Cada uno tiene su escala de valores y prioridades e insisto en que los que nos preocupan los animales también nos preocupan las personas y los problemas que nos rodean.	0
+1114	467	Considero que sería enriquecedor para los niños y una oportunidad ejemplar para conseguir una sociedad cada vez más amiga de los animales.	0
+1121	480	Son las primeras cocheras Edificadas para el servicio del Metro en Madrid en 1918 y son por lo tanto una obra histórica.	1
+1121	481	Cualquier arquitecto conservacionista estaría de acuerdo en demoler semejante adefesio sin valor arquitectónico alguno.	1
+1121	482	Esas cocheras son un tremendo obstáculo que impide la remodelación de esa zona de Madrid.	1
+1121	484	Necesario totalmente emprender este proyecto que otorgaría una importancia a nivel europeo en materia de patrimonio a nuestra ciudad.	1
+1121	487	En términos económicos el crear este Museo, en una obra ya existente y que solo precisa un lavado de cara nunca ha sido restaurada y el agregar varios elementos de uso es algo que supondrá un coste mucho menor a los ciudadanos de Madrid.	1
+1121	488	Otro museo de no se sabe qué será otra rendija por la que se escapará el dinero público, necesario para pagar pensiones, desempleo, dependencia, hospitales.	1
+1121	496	El ayuntamiento de Madrid no podría crear un museo del metro esto es gastarse el dinero más que nada porque Metro depende de la CAM.	1
+1121	501	¿Pero que tomadura de pelo de propuesta es esta? El terreno donde se sitúan las antiguas cocheras de Cuatro Caminos ya ha sido adquirido por una cooperativa de viviendas, por lo tanto no tiene sentido proponer hacer ningún museo.	1
+1121	503	Los vecinos de 4 caminos queremos parques, dotaciones, vida en la zona. La población tiene que considerar esas cocheras un bien de patrimonio histórico.	1
+1121	504	Los vecinos no queremos este museo. Cocheras soterradas cuanto antes.	1
+1121	509	El ayuntamiento de Madrid no podría crear un museo del metro esto es gastarse el dinero más que nada porque Metro depende de la CAM Entonces a que están jugando?	1
+1121	510	Necesario totalmente emprender este proyecto que otorgaría una importancia a nivel europeo en materia de patrimonio a nuestra ciudad, conservando un espacio histórico de gran trascendencia.	1
+1121	513	Que los informes no son más que una mera excusa para justificar la venta de un terreno; Expropiación forzosa; Nulidad del concurso Todo lo que dices son acusaciones muy graves contra actuaciones de organismos públicos.	1
+1121	515	Estamos totalmente indefensos frente a las ocurrencias del ayuntamiento, esto es una expropiación en toda regla.	1
+1121	502	Hola, he creado una nueva. Igual podemos lograr que sea cual sea su futuro sea decidido por todos.	0
+1121	490	Se puede devolver el dinero pagado a los compradores del terreno sin ningún problema.	0
+1121	505	Humanidad Ejemplo: Estación de Chamberí Respecto al plan urbanístico. Solo decir que hay más casas construidas que gente para vivir, sin olvidar a la gente que echan de sus casas.	0
+1121	495	Para qué necesita Chamberí un museo ahí? Lo que hace falta es un parque y edificio para uso público del barrio.	0
+1121	491	Esta propuesta sería un grave ataque a la seguridad jurídica y a la propiedad privada de personas de la clase media.	0
+1121	511	¿Pero a qué viene este cuento de salvar Cuatro Caminos? Las cocheras de Metro de Cuatro Caminos no están en peligro, sino todo lo contrario.	0
+1121	479	Las cocheras de Cuatro Caminos forman parte del patrimonio histórico de la ciudad y pertenecen al conjunto de los madrileños.	0
+1121	512	Vaya tufo ¿Esto estaba en algún programa electoral o es improvisación tipo Bolivariana?	0
+1121	486	El barrio mejoraría muchísimo y sería beneficioso para todos los vecinos.	0
+1121	508	La inversión viene porque el que vendió el terreno en un concurso público, completamente legal, fue precisamente Metro de Madrid.	0
+1121	506	Desarrollo de Metropolitan es bueno para el colegio el Porvenir, bueno para los comerciantes, bueno para los vecinos actuales y bueno para los vecinos futuros.	0
+1121	499	Una vergüenza total lo que quiere hacer el ayuntamiento con unos vecinos que han comprado un terreno de forma absolutamente legal para edificar ahí sus viviendas.	0
+1121	498	Buenos días, con qué propósito apoyáis esto por favor? todos los que hemos invertido en los pisos que se intentan construir nos está costando mucho esfuerzo.	0
+1266	517	Madrid necesita esto. Todas los casos de peatonalización del centro que conozco han resultado en ciudades más vivas y atractivas para los turistas.	1
+1266	520	El problema que comentas de las terrazas es fácilmente solucionable: no conceder tanta licencia para terrazas o cambiar la normativa municipal.	1
+1266	524	Hay ejemplos de ciudades que han mejorado muchísimo como Málaga por donde ahora es un placer pasear y en Europa ni que decir tiene, solo hay que ver grandes ciudades como Berna, Munich, Amsterdam.	1
+1266	526	Todos los casos de peatonalización del centro que veo todos los días es que ya no existe el espacio público porque se lo han adueñado los dueños de los bares.	1
+1266	528	Me parece más inteligente implantar la APR en todo el centro, permite a los residentes y repartidores el acceso y descongestiona el centro para mayor disfrute del peatón.	1
+1266	531	Soy vecina de la latina y estoy hasta las verdaderas narices de no poder aparcar y tener que soportar un tráfico infernal en la zona. Por eso apoyo esta moción incluyendo todos los barrios del Madrid histórico.	1
+1266	533	Una cosa es restringir el tráfico en el centro mediante la creación áreas de prioridad residencial y otra muy diferente es peatonalizarlo. La peatonalización en Madrid ha tenido hasta la fecha efectos perversos para los residentes.	1
+1266	535	Los taxis no deberían acceder a no ser que sean eléctricos, actualmente esta regulación ya existe, pero son los taxis y los distribuidores los que no cumplen las reglas.	1
+1266	525	Simplón y mucho es usted. ¿Acaso no tiene bastantes ejemplos de calles peatonales en Madrid que en su día lo vendieron como un beneficio para los madrileños y luego se convirtieron en propiedad privada de los bares de la zona?	0
+1266	518	Además de que se gana en calidad de vida y se reduce la contaminación, se gana en dinamismo comercial y en turismo.	0
+1266	523	La propuesta es interesante pero me temo que nos estamos olvidando de temas que son prioritarios para la vida de muchas familias sin recursos.	0
+1266	521	Para quien se lo está pensando, sabías que 1 de cada 8 muertes en el mundo está relacionada con la contaminación ambiental.	0
+1266	540	Demuestras intolerancia y mala educación así que no voy a seguir dialogando contigo. A ti te molesta el tabaco y a mí tu coche, que le vamos a hacer.	0
+1266	522	Reducir la contaminación de Madrid es una tarea de todos, particularmente soy de los que piensan que es mejor buscar alternativas antes de prohibir.	0
+1266	537	Estas zonas no están nada claras sobre quién tiene prioridad en la calzada.	0
+1266	527	Es imprescindible para la ciudad recuperar la vida ciudadana dando mayor espacio al ciudadano y menor al coche.	0
+1284	543	Muchas fiestas populares tienen un componente religioso que ya es más simbólico que otra cosa pero pienso que si el político quiere estar cerca del pueblo le viene bien asistir.	1
+1284	546	Este país ha sido toda la vida un país católico y me parece lógico que haya iconos religiosos en colegios públicos y demás.	1
+1284	548	La mayor parte de nuestro patrimonio histórico es de carácter religioso, manifestaciones tan importantes como las procesiones de Semana Santa también lo son.	1
+1284	551	En un estado aconfesional la religión no es más que un movimiento social y por tanto no debería tener más privilegios que cualquier otro movimiento.	1
+1284	559	Supuestamente vivimos en un país laico y de libre elección de creencias, reflexionemos.	0
+1284	560	Cada vez vemos en nuestras calles más mujeres musulmanas con vestimenta islámica muy evidente. Todo ello son símbolos en el ámbito público.	0
+1284	561	El siguiente paso, a mi entender, es dejar de ser aconfesional para ser un auténtico estado laico.	0
+1284	544	No es odio o represión, es simplemente que la religión de cada uno pertenece al ámbito privado.	0
+1284	542	Un cargo público no debe estar en un acto religioso como tal cargo público, sino exclusivamente a título personal.	0
+1284	541	Los poderes públicos deben permanecer neutrales ante cualquier manifestación religiosa y ellos mismos no deben asociarse con ninguna.	0
+1284	549	Eliminemos La Giralda, la Catedral de Santiago y la Mezquita de Córdoba.	0
+1284	547	Habría que preocuparse más, de que nuestros hijos aprendan a ayudar a los demás, deberíamos y a dejar que cada uno enseñe como crea que es mejor.	0
+1284	552	Todo dependiendo del número de seguidores que tenga ese movimiento social y del impacto económico que genere en la ciudad.	0
+1419	564	vías separadas, a mí me parece mucho mejor. Tenemos que tener en cuenta que no todo el mundo quiere montar en bicicleta y que el coche todavía manda y con mucha diferencia.	1
+1419	565	Una red carril-bici segura. Así habría mucha más gente que utilizaría la bicicleta como medio de trasporte sin temer por su integridad.	1
+1419	566	Quienes circulan indebidamente por la acera lo hacen por miedo a circular entre los coches. La red de carril bicicleta subsanaria este problema.	1
+1419	570	Mientras circular por esos carriles no sea obligatorio para las bicicletas me parece bien. Me los veo llenos de señoras paseando agarradas del brazo.	1
+1419	571	Compartir con los coches prefiero que mi bicicleta se quede en casa llenándose de polvo! o cojerlo de ves en cuando en algún parque, Tengo amistades que tienen bicicleta y no lo usan Porq tienen miedo por su vida.	1
+1419	572	Muchos amigos no utilizan la bicicleta porque les da miedo circular por el carril compartido. Es peligroso y te sientes indefenso.	1
+1419	574	Los carriles bicicleta son inseguros por definición. Su mera existencia crea conflictos en giros a la derecha e intersecciones, colocan a los ciclistas en el punto ciego de los vehículos.	1
+1419	575	No existe el carril bicicleta bien diseñado y seguro, no es posible debido a las intersecciones que son la trampa mortal de los carriles bicicleta.	1
+1419	568	Precisamente los que indebidamente circulan con la bicicleta por la acera lo hacen por miedo a circular entre los coches.	0
+1419	567	Nos ponemos en peligro gratuitamente y ponemos en peligro a los demás.	0
+1419	563	La posibilidad en las calles de varios carriles de reducir el ancho de los mismos para dejar sitio al carril bicicleta sin necesidad de eliminar carriles pero consiguiendo el efecto de reducir la velocidad de los vehículos para circular a 50 km/h de máxima no hace falta tener el ancho de carril de casi una carretera.	0
+1419	569	Además, si estuvieran bien asfaltadas y diferenciadas, se podrían utilizar también por los patinadores.	0
+1824	577	Completamente de acuerdo, votado. Incluiría las botellas de cristal, casi en primer lugar ya que es habitual ver botellas rotas rotas con el consecuente peligro de cortes.	1
+1824	578	Prefiero pagar un poco más y ver las calles limpias que seguir usando el sistema que tenemos ahora de contenedores amarillos, verdes, rojos y de mil colores es muy complicado reciclar ahora y mucha gente por pereza no lo hace, si facilitaran las cosas todo sería diferente.	1
+1824	580	Nunca fui partidario del castigo para que seamos responsables. No apoyo una iniciativa que lo hace.	1
+1824	581	Más que del sistema, veo un problema de educación y el castigo económico no creo que sea la solución. Seguramente que en pocos años la tasa de reciclaje rondará el 100 con el sistema español, con el alemán o con cualquier otro. Por tanto, veo mejor invertir el dinero en educar y concienciar y no en cambiar el sistema.	1
+1824	582	Yo rechazo los envases de plástico blanco, que se deshacen en bolitas. Queda muy bonito para colocar los pescados ó la carne. Pido siempre que me lo pongan en papel. Daño al sistema ecológico, y gasto para el bolsillo.	1
+1824	583	Y quién paga todas las máquinas que hay que instalar en comercios? Además es que no valen todos los residuos ni envases en el sistema, puede llegar a ser una medida cara para un diferencial de mejora en el reciclaje no muy alto.	1
+1824	585	Tu has visto cómo está España? Que ves tiradas botellas y latas por cualquier parte. Con este sistema eso se acabaría. Y sólo pagarían las personas irresponsables que hasta hoy siguen tirando todo al suelo.	1
+1824	587	En Alemania funciona muy bien, de hecho allí los sin techo recogen envases en vez de chatarra.	1
+1824	589	Esto esta muy bien, pero quien hace la ley hace la trampa, y yo que lo he visto en Alemania, te cobran 25 céntimos más por la botella y si la devuelves en supermercados generalmente te devuelven los 25 centimos. Las personas que no tienen dinero personas sin papeles, toxicómanos etc. Recogen todo de forma abusiva, y en muchos supermercados les vetan la entrada puesto que lo conocen aunque es una buena idea, pero sería un problema ya que acercamos a ciertas personas a un dinero fácil para vicios etc.	1
+1824	591	Como en la mayoría de las iniciativas ecológicas los países escandinavos o del norte de Europa nos sacan un buen trecho. Este sistema lo he usado en Dinamarca y Alemania y en mi opinión favorece a todas las partes, consumidor, supermercado, ayuntamiento/gobierno.	1
+1824	594	Esto ya existió, recuerdo cuando era pequeño años 80 de depositar botellas de plástico en una maquina en el Alcampo de La Vaguada, y de repente desapareció.	1
+1824	586	Pero cuántas bolsas crees que tendrías si se pone el sistema qué dices? Los contenedores no desaparecerían. Por lo tanto: 1 de restos/orgánico 1 de vidrio 1 de envases que no entran en SDDR que los hay e irían al amarillo, 1 de papel/cartón 1 para los envases que aceptan las máquinas. ¿Total? 5 1 más que antes. No se, yo es que no lo veo.	0
+1824	588	Una idea maravillosa que ya la he visto en ee. Uu y la verdad que mucha gente lo hace aunque sea poco dinero lo que te dan, pero oye ellos se van contentos con un descuento luego en su compra.	0
+1824	597	Politécnica de Madrid se va a hacer público en las siguientes semanas Para ello, han tenido que aumentar en un 87 los costes de gestión de envases domésticos en este país. ¿Estamos dispuesto a gastarnos un 177 más en España para aumentar un 24 nuestra tasa de reciclaje? datos del mismo estudio Entre tanto y mientras se pública, adjunto un documento de interés.	0
+1824	595	El segundo tema que se comenta es el de la basura en las calles, el littering. Sobre este tema no existen datos por el momento, pero si se pueden hacer varias aclaraciones. En Alemania hay menos basura por la calle que en España, cierto. Antes de que implantaran el SDDR en 2003 también, tampoco tiraban residuos al suelo. Ya antes del SDDR alemán, los alemanes estaban mucho más comprometidos con este tema que en España.	0
+1824	592	Este sistema tienes dos enfoques desde el punto de vista medioambiental. El primero, su viabilidad para aumentar la tasa de reciclaje. Está contrastado su fracaso. En Alemania, desde 2003 que se aplica, la tasa de reciclaje prácticamente no crece, y el porcentaje de envases domésticos que se ha conseguido reciclar con este sistema es solo el 27 el resto es reciclado con un modelo como el español.	0
+1824	593	De hecho deberían incorporar en el recientemente inaugurado mobiliario urbano un sistema de retribución en dinero electrónico, que pueda ser empleado para pagar tasas, transporte público, otros servicios.	0
+1824	590	En USA ya lo hacían en 1986 En Países Bajos Holanda en 1988 Antes de entrar al super hay unas máquinas donde depositas tus botellas y te dan ticket para canjear por dinero.	0
+1863	599	La música, las canciones no solo amasan las fieras como se dice popularmente sino que es una expresión universal que todos entendemos aunque no hablemos el mismo idioma.	1
+1863	600	Era una expresión de cultura de calle viva y no comercial, y eso no solo no tendría que no ser perseguido, sino cuidado y respetado allí donde se produzca.	1
+1863	601	Esto no es África. En Madrid, nunca hubo tambores.	1
+1863	607	El parque no es el lugar adecuado, estar seis, ocho, diez horas ininterrumpidas de percusión se hace insoportable para la fauna, para los paseantes y para los vecinos del barrio.	1
+1863	610	Fuera tambores del Retiro, ruido molesto, y egoísta.	1
+1863	615	Hay muchas maneras de disfrutar el parque y de compartir ese espacio sí, hay que regular su uso.	1
+1863	617	El parque es muy grande y lo que se está proponiendo afecta a la zona más concurrida del parque y a las tardes de los domingos, cuando dicha zona recibe una afluencia más masiva de personas.	1
+1863	618	Y yo no sé si los tambores los usan los camellos para avisarse pero en la zona próxima a Menendez Pelayo, junto a los parques infantiles, hemos visto muchas veces trapichear con droga tranquilamente.	1
+1863	620	Me encanta la multiculturalidad, la diversidad, el compartir, la música pero el parque no es el lugar adecuado, estar seis, ocho, diez horas ininterrumpidas de percusión se hace insoportable para la fauna, para los paseantes y para los vecinos del barrio.	1
+1863	611	Aceptamos compartirlo con otras culturas pero ellos tienen que respetar también nuestras costumbres entre las que no entran los tambores junto al estanque.	0
+1863	602	Si somos una sociedad occidental y civilizada no tenemos porque soportar eso.	0
+1863	612	Son muy escasos, por no decir inexistentes, los espacios donde pueda darse una participación espontánea de la ciudadanía en lo que ocurre en el espacio público.	0
+1863	613	Esta prohibición ha puesto, arbitrariamente, bajo sospecha lo que era un ejercicio de la libertad de expresión y de reunión.	0
+1863	604	Este espontáneo encuentro de ciudadan@s no solo era disfrutado por quienes tocaban el tambor.	0
+1863	622	No por poner 30 post se tiene razón, solo demuestra soberbia, egoísmo y falta de respeto a los vecinos.	0
+1863	623	Buff, yo veo difícil la conciliación del derecho a la expresión musical en el Retiro con el derecho al silencio y la escucha de la naturaleza.	0
+1863	605	El parque es muy grande y nos puede acoger a tod@s en armonía.	0
+1918	624	Crear una plataforma para eliminar estos impuestos abusivos... el incremento de patrimonio esté regulado en función de ingresos	1
+1918	630	Buenas noches: Con las sentencias stc 262017 y 372017 del Tribunal Constitucional ya no hay dudas. Las herencias y ventas de más de 20 años no están sujetas al IIVTNU	1
+1918	634	Después de 20 no hay manifiesto del incremento y por lo tanto no se cumple la formulación del hecho imponible	1
+1918	638	Entiendo que debe ser proporcional al valor de la herencia recibida relicto hereditario, no solo hay que tener en cuenta los inmuebles sino el total recibido	1
+1918	641	Nada de impuestos en estos casos que solo es cambio de titular y además porque te lo dejan tus padres o familiar por fallecimiento	1
+1918	632	Mis padres se pasaron una vida trabajando como animales para dejar a sus cuatro hijos en una situación que no les faltara el pan no somos ricos	0
+1918	627	No es suficiente que el que recibe por herencia... un inmueble para su uso como la vivienda pagar el IBI Yo creo que sí	0
+1918	626	¡Pero Ramón Maynou Ferreres qué dices! Se nota que no tienes problemas, dificultades para pagar impuestos que por si ya son algunos abusivos	0
+1918	637	He tenido que pagar 9000 euros por la venta de un piso de 145000 euros. ¡Es una auténtica vergüenza!	0
+1918	628	Ocho mil euros Por un piso que debe estar tasado en unos 200000 euros	0
+1937	645	Si un perro muerde o un dueño no recoge la caca, que sea sancionado, pero no adelantemos acontecimientos o prohibamos de manera preventiva.	1
+1937	646	La opción de crear espacios acotados para que los perros jueguen, que hay varias propuestas, es una buena opción para reducir estos problemas que planteas, sin necesidad de que se criminalice a dueños y mascotas.	1
+1937	650	Hombre, Martín, en el caso de los perros peligrosos si me parece bien que lleven bozal. No hay que esperar que muerdan a un niño para tomar medidas.	1
+1937	652	El perro no es peligroso, lo es el dueño, No existen razas potencialmente peligrosas.	1
+1937	655	El artículo 102 de la ordenanza municipal dice que sólo deben llevar bozal los que tengan antecedentes de comportamiento agresivo.	0
+1937	648	Saludos, contribuiría a la solución de algunos problemas el pasar por la escuela canina, por favor apoya esta propuesta, gracias: .	0
+1937	649	Basta ya de acoso! Hay 80 peticiones iguales, y no ha prosperado ni una. Unas de las cacas y otras de los perros sueltos. Los perros deben aprender a ir sueltos, y las cacas deben recogerse.	0
+1937	643	No existe ninguna obligación de que los perros lleven bozal. ¿Por qué hay que ponérselo entonces?	0
+1937	644	Me ha encantado lo de castigo duro.	0
+1937	647	Votado. Propongo Zonas para que los perros puedan estar libres y pipi-can, votad.	0
+1937	656	Te equivocas, lee la ordenanza municipal. Propuesta repetida.	0
+1937	651	Lo normal es que el dueño de una mascota sea sensato, como lo son la mayoría, y entienda que en un piso de Madrid capital no cabe un perro grande y agresivo.	0
+2121	657	Necesitamos hospitales públicos de mascotas, muchos dueños no pueden hacer frente a las abultadas facturas de los veterinarios, que en muchos casos son abusivas.	1
+2121	658	Yo adopte un perro, y lo primero que hice fue echar cuentas si me lo podía permitir o no. Lo siento pero una mascota es un lujo y con el dinero de todos no se pagan lujos de unos pocos.	1
+2121	660	Yo tengo perros, pero los perros no son una necesidad. El que tiene un perro es por que quiere y a nadie más que a esa persona debería costarle dinero el capricho.	1
+2121	662	Considero que se debían poner impuestos mayores a la tenencia de animales por capricho. Pagamos bolsas que no se usan pagamos motos para recoger las cacas y tenemos que soportar el incivismo del 90 de propietarios de animales de compañía por capricho.	1
+2121	665	Para tteleda, Cierto es que una gran parte de la gente que tiene mascotas son incívicas por no recoger las cacas de sus mascotas, todo es una cuestión de educación y respeto.	1
+2121	668	Quizás los perros no sean una necesidad, pero tampoco es un lujo, muchos tenemos mascotas porque fueron abandonados por personas sin pizca de alma ni corazón, y algunos decidimos darles un hogar.	1
+2121	670	Cuando consideremos a las mascotas habitantes de la ciudad, en igualdad de condiciones y respeto que las personas, el debate cobraría otro significiado. No se trata de un lujo o un objeto. Apoyo esta iniciativa.	1
+2121	669	Son un capricho vecin@.	0
+2121	667	Betados, yo no pido una sanidad pública gratuita para mascotas, pido hospitales públicos para mascotas con algún tipo de subvención, el resto lo pagaríamos quienes hiciéramos uso de ella.	0
+2121	671	Hola Maria cm, si tenemos que esperar a que la gente se haga civica, mis nietos tendrán que jugar en parques infantiles llenos de cacas de perros y de personas que dejan a sus perros en libertad en estos lugares, habiendo letreros que prohíben estas situaciones.	0
+2121	672	Bueno, tal vez habría que pedir la bajada de impuestos y no tendríamos que pagar tanto por cada cosa.	0
+2121	663	Por otra parte hay una gran población anciana que tiene mascotas y desde luego les hace mucho bien esta compañía, pero desgraciadamente si tienen que hacer frente a facturas del veterinario con las escuálidas pensiones que tienen nos les llega y quien sufre, como siempre el animal, que acaba sacrificado o abandonado a su suerte.	0
+2121	661	Yo tengo gatos, cuando los adopte, tenía trabajo y medios de vida para mantenerlos, ahora estoy en el paro y aún así los cuido y procuro tenerlos al día.	0
+2121	666	Pero a esas personas hay que castigarlas de alguna forma y la única que veo es rascarles el bolsillo.	0
+2135	678	Por cerrar 3 barrios al tráfico, los problemas de contaminación van a seguir siendo los mismos e incluso se incrementará, puesto que la gente en lugar de entrar en el APR de Ópera, aparcará en las inmediaciones, e irán andando hasta esa zona, atascando por supuesto las zonas aledañas, y no permitiendo que la distribución del tráfico en la capital sea uniforme.	1
+2135	680	la contaminación acústica no sólo la producen los vehículos; las calles peatonales como Arenal, tienen una contaminación acústica insufrible, y es producida por las miles de personas que de lunes a domingo pasan por esta calle, que hablan a voces, o que simplemente 200 personas hablando a la vez, pues provocan alboroto.	1
+2135	684	No sirve de nada que haya más plazas de aparcamiento en superficie si las mismas van a estar vacía las 24 horas al día, lo disfrutarán los residentes de la zona, y yo creo que ni eso, ya que muchos tendrán plazas de aparcamiento privadas.	1
+2135	688	Eso lo dirás tú, el impuesto de circulación, se paga entre otras cosas, por el desgaste que hacen los vehículos en el asfaltado de la ciudad, si yo no puedo acceder a ciertas calles, no desgasto su asfalto, lo hacen sus propios residentes, pero sin embargo, yo pago por el asfaltado de las mismas, y eso no debe de ser así.	1
+2135	689	lo único que provocan es la desigualdad entre unos ciudadanos y otros, formando todos parte de la misma sociedad, y pagando los mismos impuestos.	1
+2135	692	La ciudad tiene que ir apostando por energías renovables, y por un modelo de movilidad más sostenible.	0
+2135	681	Permite el acceso a transporte público, servicios de emergencias y carga y descarga servicios necesarios para los vecinos de la zona.	0
+2135	683	Aumento de plazas de aparcamiento en superficie.	0
+2135	697	Solo con eso, se demuestra que las zonas APR mejorar la sostenibilidad de la zona. Lo de la contaminación, se nota sin duda.	0
+2135	693	Por cierto, el transporte público como el metro y la renfe, se mueven gracias a la electricidad, producida como te he explicado antes, en su mitad de manera contaminante.	0
+2135	682	Este punto no se que decirte la verdad, es que para mi que puedan acceder taxis, autobuses o carga y descarga, me viene a dar un poco igual, no vivo allí.	0
+2135	675	Las APR son espacios en los que se restringe el acceso de vehículos a los no residentes con el objetivo de preservar el uso sostenible de las vías comprendidas en las mismas.	0
+2135	691	Por cierto, todos los problemas de contaminación de Madrid, siempre se achacan a los vehículos, no siendo así en parte, aun quedan en Madrid miles de calefacciones de carbón, que si no lo sabes contaminan como una decena de vehículos, las que no son de carbón, son de gasóleo, que es más de lo mismo, y las que no, son de gas natural, que aunque contamine menos, sigue siendo contaminante.	0
+2135	686	Me alegra enormemente que las motos puedan acceder, pero yo me compre un coche, y no una moto, entonces no me sirve de nada que las dejen entrar, y desde luego a estas alturas no me voy a comprar una moto, ya me gaste el dinero en un coche.	0
+2135	695	Menos mal que hace calor, porque sino estaríamos muchísimo peor. Hay que ir poco a poco contra el problema.	0
+2135	676	¿uso sostenible?, que pasa, que si los residentes acceden, están usando las calles que pagamos todos de manera sostenible, pero si accedo yo no, por supuesto; y si ellos vienen por mi barrio, están usándolas, según tu explicación, de manera sostenible, puesto que mi zona no es APR Distrito de Tetuán; es que es totalmente irracional, lo veas como lo veas.	0
+2135	687	El Impuesto sobre Vehículos de Tracción Mecánica es un tributo directo que grava la titularidad de los vehículos de esta naturaleza, aptos para circular por las vías públicas, cualesquiera que sean su clase y categoría.	0
+2412	698	¿Metro más accesible? Así puedes unificar los intereses de la gente que viaja y porta maletas, y a su vez, puedes indicar que favorece que las personas con movilidad reducida, padres con bebes.	1
+2412	701	Es muy necesario poner ascensores y/o escaleras mecánicas por la cantidad de turismo que hay sobretodo en la zona centro. Damos muy mala imagen a turistas y estudiantes extranjeros que llegan a la ciudad con sus maletas, intentando subir y bajar con ellas por las escaleras.	1
+2412	704	El enorme atasco en todas las entradas de Madrid a través de todas las carreteras nacionales el pasado lunes. El eterno aparcamiento en doble fila en todo Madrid. Si no hay un buen transporte público, Madrid seguirá siendo un caos circulatorio.	1
+2412	706	El servicio al aeropuerto es un servicio extra del metro, no tiene que estar perfectamente adecuado para las distintas circustancias como solicita usted en su ultima frase.	1
+2412	711	La inauguración de la l8 la hicieron conjuntamente Aguire y Gallardón. Si lo es para inaugurar, que lo sea para arreglar problemas o exigir a la Comunidad dichas soluciones.	1
+2412	712	El 90% de los usuarios de Metro viven en Madrid capital, algo tendrá que decir nuestro Ayuntamiento.	1
+2412	713	El ayuntamiento podrá presionar pero no tiene competencias. El Metro es de la Comunidad de Madrid.	1
+2412	700	Técnicamente, ¿dan el mismo servicio no? Por eso, lo mismo sería bueno cerrar la propuesta, y concentrarse en una que facilite la movilidad a todos Viajeros con equipaje, personas con movilidad reducida, carritos de bebe.	0
+2412	707	Podemos moderarnos nosotros mismos, y tu que eres el que ha propuesto la idea, puedes hablar con las otras personas para unificar ideas y promover una única propuesta.	0
+2412	710	Me parece apropiado Vicente. He podido leer algún post sobre el problema de las duplicidades.	0
+2445	718	No es necesario atropellar a un niño para poner esto de manifiesto. Las aceras son para los viandantes, así como a mí no se me ocurre ir por la calzada, aunque lo haga con todo el cuidado.	1
+2445	720	La solución pasa por plazas específicas para motos nadie ve sentido en aparcar en la acera si hay una plaza para motoristas relativamente cercana.	1
+2445	726	Por otro lado, justo al transporte público y las bicicletas, las motos suponen una de las pocas alternativas al colapso circulatorio creciente en las ciudades. Y en buena parte, es alternativa por la facilidad con la que resulta aparcar.	1
+2445	729	La circulación de cualquier vehículo motos incluidas por las aceras está prohibida. Las motos en las aceras solo pueden arrastrarse, como quien arrastra una bicicleta, con el motor apagado.	1
+2445	735	Debemos ser comprensivos, en la ciudad convivimos todos y debemos organizarlos para compartirla y disfrutarla todos lo mejor posible.	1
+2445	736	Yo me quedo con que la calzada es para los vehículos a motor y las aceras para los peatones y por eso esta iniciativa me parece estupenda.	1
+2445	724	Lo de aparcamientos en la calzada está bien, pero supone reducir aún más el número de plazas para los automóviles, ya de por sí muy escasas.	0
+2445	738	No obstante la normativa es clara, y cualquier comportamiento vandálico puede ser fácilmente denunciado no digo ya si saliera lesionado un peatón.	0
+2445	737	Creo que si ninguna moto tuviera la posibilidad de pisar las aceras se acabarían bastantes problemas asociados.	0
+2445	717	Por favor, acérquese a la calle Barquillo esquina Augusto Figueroa, donde los invidentes se topan con motos en la acera sin contar con ello ni tener por qué.	0
+2445	721	Y si además estuviese vigiladas por vídeo-cámara, y con pilotes donde anclar nuestros candados, serían hasta un muy buen reclamo para cualquier motorista.	0
+2445	715	Yo misma vivo en una de esas zonas peatonales donde, por cierto hay también un parque infantil, y veo a diario como los motoristas van por la acera a unas velocidades inapropiadas.	0
+2445	719	En cuanto a los riesgos para el peatón, las motos no maniobran marcha atrás usando el motor, la visibilidad siempre es total, y a baja velocidad 4 km/h o menos, paso de peatón, que es como hay que ir o en parado, el único riesgo objetivo es la caída lateral de la motocicleta más probable en motos muy pesadas y altas con el piso deslizante y calzado inadecuado siendo totalmente improbable que dicha caída pueda afectar a un peatón.	0
+2445	739	Ah por cierto! aunque no se cite. El propio código de circulación nos insta a encadenar nuestras motos a mobiliario urbano como farolas o señales para evitar ser robadas allí donde la normativa lo permita. En el caso de Madrid no se permite.	0
+2445	731	No obstante, le comento como el 999 de los motociclistas hacemos al respecto. Cuando me acerco a mi destino me detengo medio minuto o más para analizar cuál es el mejor lugar para estacionar, evitando hacerlo en aceras estrechas o lugares muy transitados sin zonas muertas de tránsito de peatones aunque cumpla con la normativa.	0
+2445	723	La cuestión es ¿cuántas plazas habría que reservar para que la solución fuese eficiente? Queda claro que la demanda sería grande, y que esto solo puede hacerse a costa de mermar aún más el número de plazas para automóviles, hoy ya realmente escaso.	0
+2513	742	Pasan el miedo a los peatones donde no sobran accidentes, La bicicleta supera la velocidad peatones.	1
+2513	744	Quizás, y sólo quizás, sea porque Madrid no es un lugar muy acogedor para las bicicletas. Solución carriles bicicleta de verdad y no de paseo.	1
+2513	749	Yo no pido multas, si no todo lo contrario. Como se que es un problema de miedo a los coches, pues lo que quiero es que aprendan a circular y si no son capaces de aprender, pues que les sancionen con asistencia a cursos de educación vial.	1
+2513	753	En contra. La obligatoriedad de una matricula desincentiva el uso de la bicicleta, que en Madrid mejora la movilidad y no aumenta la contaminación.	1
+2513	747	Es curioso que molesten más las bicicletas por las aceras que el humo de los coches cuando antes la gente se echaba las manos a la cabeza con el tabaco y el tabaco es infinitamente menos contaminante que los coches.	1
+2513	743	Tienes toda la razón, cada vez hay más bicicletas que se saltan todo tipo de señales, van en dirección contraria, saltan los semáforos provocando sobresaltos en los transeúntes.	0
+2513	750	Una de las ventajas, entre otras, de las bicicletas es que no pagas impuestos por usarla. Imagino que la matriculación no será gratis. Como ventaja veo más interesante que en caso de robo se podría identificar más fácilmente.	0
+2513	745	Yo creo que la mayoría de gente que va por las aceras en bicicleta es por miedo a los coches.	0
+2513	748	Espero igualmente que todas esas voces que reclaman multas para las bicicletas por las aceras no sean los mismos que acosan a los ciclistas con sus coches por las calzadas.	0
+2524	756	Algo huele a podrido en este mudo de hombres supuestamente progresistas cuando cualquier iniciativa propuesta por una mujer para otras se considera discriminatoria.	1
+2524	760	No veo discriminación por ningún lado, amigo/a Oporto. Es un proyecto para personas con las mismas inquietudes.	1
+2524	763	Todo mi apoyo. La experiencia y la madurez femeninas tienen mucho que aportar a esta sociedad donde faltan aún muchos valores escondidos por desarrollar.	1
+2524	769	Agradecería a todas las personas que les interese esta propuesta que se pongan en contacto conmigo.	0
+2524	765	Me parece una idea estupenda. A ver si entre todas encontramos el lugar adecuado y las ayudas que necesitáremos.	0
+2524	757	La apoyaría si no fuera discriminatoria y excluyente hacia la mitad de la población.	0
+2524	759	es necesario y porque está basado en la Economía del Bien Común, en el desarrollo sostenible y en el Ecofeminismo.	0
+2524	764	Podría ser maravilloso y una esperanza al futuro de muchas mujeres que nos encontramos ante una precariedad social que cada día avanza más y nos arrincona hasta llegar a la exclusión total.	0
+2538	770	Estoy totalmente de acuerdo con esta propuesta, ya que estos animales generan una serie de gastos a la comunidad es justo que paguemos una tasa.	1
+2538	771	una tasa podría tener el efecto contrario al buscado, porque el que la pague dirá ah pues ahora paso de recoger la defecación.	1
+2538	772	No es justo que todos los propietarios de perros paguen una tasa, ya que hay mucha gente que sí recoge los excrementos e incluso amonesta a quienes no lo hacen.	1
+2538	778	Me parece que la intolerancia con lo que respecta a los que tenemos un perro da que pensar.	0
+2538	776	La mejor propuesta creo es la del ADN que anda por ahí, y un sistema de multas eficaz.	0
+2538	773	El que tiene perro tiene para pagar una tasa. A mi me parece bien.	0
+2551	788	Estoy muy de acuerdo, la última fue insufrible para los vecinos de Centro, por lo largo, la suciedad y el ruido...	1
+2551	791	Que se generan en cualquier fiesta y para lo que podría haber lanzado una propuesta para una mayor regulación	1
+2551	792	A demás que la tolerancia es cosa de ambas partes, nosotros tenemos que aguantar no entiendo la fiesta porque tampoco hay la fiesta del orgullo heterosexual...	1
+2551	795	Nadie en mi barrio quiere esas fiestas, pregunten a comerciantes, también de bares y restaurantes...	1
+2551	798	Yo quiero que todas las celebraciones se queden donde están y que se regulen debidamente de forma que todos los madrileños tengamos opción a participar en aquellas que más se adecuen a nuestros gustos y preferencias...	1
+2551	782	Si pero eso solo lo sabe el vecino que lo sufre...	0
+2551	780	Yo voto para que no se célebre nunca más ninguna victoria deportiva dentro de la capital...	0
+2551	790	Ruidos, suciedades, cortes de tráfico etc. Y no hablamos de un par de horas, son días y horas interminables para los que lo sufrimos...	0
+2551	781	A trabajar como Dios manda y a circular todos correctamente...	0
+2551	796	Es la imposición de un colectivo. Espero que se pueda actuar por parte del ayuntamiento para evitar las múltiples incomodidades que tendremos que aguantar los vecinos.	0
+2551	789	Tachar de homofobia como argumento es un sin argumento...	0
+2551	785	Por cierto, la fiesta del orgullo gay fomenta la tolerancia...	0
+2576	811	No hay que enseñar sólo a los jóvenes estudiantes, sino a todos, para evitar convertir a nuestros hijos en unos guarros.	1
+2576	812	No solo la gente que hace botellón ensucia, sino también los propios alumnos durante el día.	1
+2576	804	Es injusto, pues la mayoría no ha podido votar la composición del Ayuntamiento de Madrid.	0
+2576	800	Aplaudo tu iniciativa, y creo que podría tener una repercusión social importante.	0
+2576	809	Educación! Concienciar a todos los que ensucian de forma innecesaria su entorno.	0
+2576	805	Los empleos públicos se deben ofrecer a todos los ciudadanos.	0
+2576	803	La alcaldesa no tiene legitimidad para hacerles limpiar las calles.	0
+2576	806	Si saliera una oferta de empleo público para limpiar un colegio, la solicitarías en la zona que más cerca te pille.	0
+2576	808	Muéstrame una encuesta que diga que sólo los universitarios ensucian la calle.	0
+2944	814	La cuestión es que ese dinero proviene del Ministerio de Defensa. Si ese ministerio no invirtiese ese dinero en el desfile, se invertiría en otra cosa relacionada con defensa, no en los parados.	1
+2944	815	A mí opinión 800 mil euros daría de comer a muchas familias y a crear algún puesto de trabajo ya sea funcionarios o privados, se que el ejército cumple su función pero ese dineral es de todos y debería usarse para todos por ejemplo.	1
+2944	818	No lo sé, pero en el día nacional de España, que coincide con la fiesta de la hispanidad y del Pilar el desfile estaba petado de madrileños. Yo no fui pero un acto a nivel español, que se retransmite por cadenas principales y de repercusión internacional excelente para el turismo de Madrid.	1
+2944	816	No estoy de acuerdo con el desfile militar, pero tampoco estoy de acuerdo con lo que dices. Si por gasto fuera, el actual desfile cuesta menos de la mitad que otros años, y no llega ni a la mitad de los que se gastan otros países en lo mismo.	0
+2944	813	el encontrar en que pueden ayudar a esos países cos sus muy enormes recursos y que se visibiliza una vez al año en el antiguo día de la hispanidad mediante actos de entrega de material o de reunión con las autoridades de estos países en relación a las actividades de colaboración no militar.	0
+2944	817	Bueno, pues es que se me había pasado poner lo más importante: en el día de hermanamiento entre España y los países de LatinoAmérica el ejército no tiene nada que ver ni nada que hacer.	0
+3044	822	El progreso conlleva un declive en la calidad de vida... es un motivo más para redoblar la lucha, contra la comida basura y las radiaciones peligrosas.	1
+3044	823	Lo de Italia es de uso militar y policial... lo que detectan son las interferencias en las señales de telefonía producidas por aeronaves volando a baja altitud.	1
+3044	825	Hay miles de señales de radiofrecuencia, que atraviesan nuestros cuerpos diariamente, tanto naturales como provocadas por el hombre... El progreso trae consigo estas cosas, y es inevitable.	1
+3044	829	No hay ninguna forma de evitar las radiofrecuencias, es que hasta los microondas las producen.	1
+3044	830	Me parece malgastar el dinero de todos los contribuyentes... las ondas van por el aire y te atraviesan, y es lo que hay.	1
+3044	832	Hay que poner también un medidor de gases de efecto invernadero en el culo de las vacas... Esa tasa de la que hablas acabaremos pagándola los de siempre.	1
+3044	833	Esto no es un informe hecho por una consultora, de parecerse a algo se parece más a las cámaras de vigilancia para hacer cumplir con la normativa de velocidad máxima.	1
+3044	821	Según este video son torres de destrucción masiva... Mensaje de Anonymous en relación con el WiFi.	0
+3044	831	Si hombre, si lo que tu digas. Vamos que es inevitable y nos tenemos que morir de cáncer y leucemia para que otros se forren, en nombre del progreso.	0
+3044	827	Hay una diferencia. Si usted conecta un aparato a la red y se estropea por sobrevoltaje... la radiación nos penetra y a muchos, perdón por la expresión, les da por culo a tod@s por igual.	0
+3044	828	La radiofrecuencia no es contaminación, al menos la que provocan las instalaciones normales en las ciudades.	0
+3165	848	los olores no permanecerían de igual manera que ni en los túneles ni en las estaciones permanece el olor de los madrileños para el día siguiente	1
+3165	850	el problema relacionada con los olores e higiene ya que el metro es un servicio para personas usado por millones de personas	1
+3165	856	Los operarios de limpieza no se quedarían sin trabajo, se les recolocaría en tareas de limpieza	1
+3165	857	el metro más cercano dista a más de 500 metros, y seguramente la gente se cabrearía mucho si tiene que recorrer esa distancia para ir a tirar la basura	1
+3165	869	las personas con movilidad reducida odian los actuales cubos imposibles de abrir las cúpulas recogida de cristal con la boca tan alta y los espacios que ocupan en la calle que nos cortan el paso	1
+3165	855	podrían bajar los cubos por la noche y esperar a que pase el vagón habilitado para transportar los cubos de basura	0
+3165	854	La recogida y transporte de basuras se haría en las horas que la red de metro estuviese cerrada	0
+3165	866	la malloría de vecinos están bastante lejos de la boca de metro	0
+3165	846	Sería mejor que al entrar en el metro en sus infraestructuras los contenedores de basura fueran sellados antes, herméticos, por higiene y seguridad para las personas	0
+3165	862	no veo porque el coste sería más caro que tu solución de poner puntos limpios	0
+3165	853	Aunque no se compartan, el olor permanece segurísimo	0
+3165	868	la mayoría de vecinos están bastante lejos de la boca de metro	0
+3165	842	La idea se podría llevar a cabo por fases	0
+3165	864	Creo que tu propuesta es extremadamente cara, y solo beneficia a las constructoras	0
+3165	867	aunque fuese una minoría de gente la que va al metro todas las mañanas o vive cerca de una boca de metro, esa minoría estamos hablando de cientos de miles de personas	0
+3165	865	Los costes son más económicos los de recogida neumática que utilizar el metro	0
+3165	841	sería difícil de ejecutar, pero creo que no estaría mal que se le diese una vuelta a lo que planteas	0
+3165	859	necesitaríamos muchos traslados en furgonetas para llevar la basura a las estaciones de metro	0
+3165	847	transportarla a través de túneles - sellados o como fuera para evitar olores	0
+3165	844	Tendrías que hacer accesos especiales verticales en el metro para los contenedores de basura	0
+3481	872	Considero la vivienda como una necesidad, esta propuesta implicaría a todos, gente hay muy buena como mala, esto se solucionaría creando un registro de estas personas que destrozan las casas y se pidan informes para alquilar.	1
+3481	873	Bajarías el precio, efectivamente, pero obligarías a gente a pedir menos valor con tal de venderla o alquilarla a cualquier precio.	0
+3481	870	No estoy de acuerdo, hay otras maneras de garantizar a las personas un subsidio.	0
+3481	878	Estoy de acuerdo en multar a los bancos, pero un ciudadano particular no debería de estar obligado a alquilar su casa aunque tenga mucha pasta.	0
+3587	882	nunca he hecho frenar a un autobús, más que nada por mi integridad	1
+3587	883	las motos lo utilizan para adelantar, cambiando de carril cuando les interesa y más de una y dos veces los autobuses tiene que frenar en seco	1
+3587	895	Las bicicletas no pueden ir por el carril autobús, está prohibido	1
+3587	896	es frustrante que el autobús tenga que ir a 10 km por hora, por culpa de una bicicleta o varias que ocupan su carril	1
+3587	887	El carrilbus es un servicio público	0
+3587	893	que la moto ocupe menos lugar no tiene relación con al propuesta	0
+3587	892	en el espacio de un vehículo pueden llegar a caber 6 motos	0
+3587	888	El único sentido que le veo a esta propuesta es la de evitar que el coche privado entorpezca a los autobuses	0
+3587	886	Cualquier servicio público debe tener prioridad sobre uno privado	0
+3587	879	los autobuses tiene que frenar en seco, con el consiguiente peligro para los ocupantes cuando las motos se meten a saco delante de ellos	0
+3587	881	Pero no me quejo porque el carril es del autobús y los demás tenemos que usarlo sin estorbar	0
+3587	884	las bicicletas tienen su carril	0
+3587	885	nunca he visto maniobras que hallan entorpecido el tráfico de los autobuses	0
+3905	900	El problema es que para algunos moteros, el ruido de su moto les parece música, pero solo a ellos.	1
+3905	901	si a esa itv voy sin el silenciador y la moto da 115 o 120db ese es el valor que anotan en la ficha técnica y el nivel de ruidos que es permitible por industria.	1
+3905	902	La regulación de los ruidos de escape no es igual para todos ya que según cada moto tienen un nivel de ruidos.	1
+3905	903	se tienen que hacer en unas condiciones que en mitad de la carretera o ciudad pueden darse, ya que afectarían otros factores.	1
+3905	906	Deberían prohibir el ruido de los tubos de escape de las motos que a mi que vivo en un primer piso, en verano me obligan a estar con las ventanas cerradas.	1
+3905	908	Parece que la ciudad ha de ser un sitio mudo, aquí vivimos muchos y hay que transigir.	1
+3905	911	las tablas de control se empezaron a hacer a partir de 1985, todos los vehículos anteriores no tienen límite por antigüedad.	1
+3905	913	no hay tablas de control para motos de 2t que hacen ruido ya que cuando salieron a la venta no existían estas medidas.	1
+3905	912	si a esa ITV voy sin el silenciador y la moto da 115 o 120db ese es el valor que anotan en la ficha técnica.	0
+3905	899	todos los ejemplos que pones en algún país europeo serían sancionables también.	0
+3905	904	No es necesaria iniciativa alguna para ello. Bastaría con hacer una campaña policial expresa dotando a los agentes de sonómetros homologados.	0
+3905	909	Que mi vecina la loca no grite de noche, que la seden Que el perro del bloque de al lado no ladre tan fuerte, que no haya perros de más de 20 cm de alto, que ladren flojito.	0
+4293	914	Completamente de acuerdo Mónica. Tengo el mismo problema que tú y me encantaría poder ir en metro con mi perro porque es más barato y menos contaminante.	1
+4293	915	Yo no tengo perro, pero me parece bien siempre y cuando estuviese bien regulado: - Bozal y correa obligatorio. - Limitado a metro y cercanías.	1
+4293	916	También me planteé la opción de ir en bicicleta, pero a mi parecer Madrid aún no está preparado para eso.	1
+4293	917	No es poesía llevar la contraria, y me parece perfecto lo de llevar tu animal a todos los lados, pero donde empieza tu libertad puede acabar la mía.	1
+4293	920	Y creo que se podría estudiar que fuera en unas determinadas franjas horarias como con las bicicletas, para evitar horas punta por el bien de las personas y los animales.	1
+4293	923	Hay muchas personas mayores y niños que tienen fobia a estar cerca de un animal por muy con bozal y atado que este, que está por ver que esto se cumpla.	1
+4293	924	Que nos demos cuenta, no son niños, son animales que se les pueden cruzar los cables y se pueden pelear entre ellos como hacen en la calle si hay una muchos en un espacio reducido.	1
+4293	925	No somos ni Alemania, ni Francia, ni Finlandia, somos España. Lo vivo a diario el poco respeto y empatia hacia los demás, no sólo en este tema, en muchos otros.	1
+4293	928	El 95% de la gente recoge los excrementos de sus perros, educando desde cachorro al can se puede conseguir que solo haga sus necesidades donde debe.	1
+4293	931	Los que tiran colillas o cualquier tipo de basura correcto son guarros y a multarles. Sois miles los que tenéis perros y no todos son cívicos.	1
+4293	932	Bueno tampoco serían tantas las mascotas. Creo que combinando esta propuesta con la de aumentar la frecuencia en el trasporte público se podría por ejemplo reservar un vagón en los trenes del metro y buscar opciones para el autobús.	1
+4293	930	En este país no estamos adaptados socialmente para eso.	0
+4293	937	No sé cómo lo harán en esos otros países pero, como no pongan vagones específicos en el caso del tren o metro o compartimentos especiales separados del resto del pasaje en autobuses, ya me diréis cómo puede prevalecer el derecho de una persona a viajar con su mascota sobre el derecho de otra a no tener problemas de salud.	0
+4293	934	No hay una solución a gusto de todos y tendrá que prevalecer un criterio de mayorías.	0
+4293	936	Antes de llevar a cabo esta propuesta se debe considerar el hecho de que muchas personas son alérgicas.	0
+4293	927	No esta adaptado usted por su cerrada mentalidad, yo tengo alergia a diversos tipos de colonias, deberían por ello prohibir usarlas en transporte público por ir yo?	0
+4541	949	No lo veo como una competencia, yo me dedico al mundo deportivo canino y a perros de trabajo	1
+4541	955	El caso es empezar, con el tiempo podríamos equipararnos al nivel de otros países	1
+4541	956	Mucha gente estaría interesada en estos cursos pero no puede pagar las elevadas tarifas de los especialistas	1
+4541	957	No todo el mundo dispone de coche para desplazarse hasta su localización, suelen estar lejos	1
+4541	958	Me parece que el curso es innecesario, quien busque un curso de esas características será el que menos lo necesite, el resto seguirá igual	1
+4541	948	Entiendo que no te guste la idea, lo verás como competencia	0
+4541	943	Pones pegas a algo que, de momento, no existe	0
+4541	961	El Ayuntamiento no debería gastar recursos en cursos de educación canina cuando hay otras prioridades	0
+4541	939	Muchos estamos deseando que existan	0
+4541	950	El dinero de todos subvenciona en parte los cursos, talleres, etc., que el Ayuntamiento organiza	0
+4541	941	La idea es que el Ayuntamiento ofrezca oportunidades de formación a propietarios/as	0
+4541	945	No me apetece mucho que el dinero de todos se vaya en cursos de educación para los propietarios de perros	0
+4541	960	Estoy de acuerdo contigo, lo más importante es empezar	0
+4541	938	Es dar un primer paso, empezando por obediencia básica	0
+4541	944	Quien busque un curso de esas características será el que menos lo necesite, el resto seguirá igual	0
+6931	963	Amos por pasos: Tenemos la colilla y se puede intentar sacar huella dactilar. De obenerse una huella válida, se compara con ficheros existentes, por ejemplo del DNI De aquí ya tenemos al individuo y sus señas. Se le cita y se le saca ADN Se compara y. Si coincide: multa y cobro de gastos. Como verás, cosas más difíciles venimos haciendo los humanos.	1
+6931	964	Es un sistema muy caro. No le veo viabilidad económica en este momento.	1
+6931	965	Piense que habría que realizar un test de adn para tener una base de datos de contraste... El sistema es caro, ya que primero requiere la base de datos de contraste algo inexistente en la actualidad y luego cada test requiere una suma elevada. A día de hoy, lo veo un sistema poco viable.	1
+6931	966	Las huellas dactilares que se sacan de los ficheros del Ministerio de Interior por ejemplo, las que tienen a través de los registros dactilares del DNI no pueden ser usadas para identificar a posibles delincuentes. Se estaría pisoteando el derecho de presunción de inocencia hay varios artículos que tratan sobre este tema, y le recomiendo que se los lea tranquilamente Por ello, no es constitucionalmente viable el sistema que me ha indicado anteriormente.	1
+6931	969	Puedo sentarme en el suelo por por razón, tocar alguna colilla que yo no haya tirado en el suelo, y ya la hemos liado. La administración presumiría que yo fuí la persona que tiró la colilla al suelo pese a no ser fumador Igualmente, hay gente que en invierno fuma con guantes, y no quedarían huellas en el cigarro. Sinceramente, creo que sería mejor solución el fomento de la educación cívica.	1
+6931	973	Cuando se tira una colilla al suelo lo hacemos por costumbre y si pensar lo que hacemos, ya que tenemos la mente ocupada en otras cosas. Y sabemos que está feo, pero prevalece la costumbre. Tampoco estamos acostumbrados a que nos afeen la conducta, así que reaccionamos agresivamente.	1
+6931	975	Y aquí puede influir el ayuntamiento ampliando la actual campaña propagandística emprendida de mantener el suelo limpio con el tema de las colillas. Pero en este país no estamos acostumbrados a que nos pidan colaboración pero sí a que haya prohibiciones de todo tipo, así que no hacemos caso, y para esto y para ciertas personas olvidadizas hay que animarlas a animarse al grupo de los buenos ciudadanos cumplidores con un poco de tocarles el bolsillo, que es efectivo.	1
+6931	968	Creo que cada ciudadano puede ayudar a construir una ciudad mucho mejor, y podemos actuar para corregir acciones incívicas.	0
+6931	974	¿Sistema caro? Mejor, que lo va a pagar el que ha tirado la colilla. Lo que duele, se aprende.	0
+6931	977	Además podríamos exigir la entrega de dos fotocopias compulsadas del DNI cada vez que se compre una cajetilla de tabaco, llamar al 112 cada vez que alguien te pida fuego, que los policías vayan de paisano diciendo: perdona ¿tienes un piti? y que el Centro Nacional de Inteligencia implante microcámaras en los ojos de las palomas para que esos malditos fumadores no se escapen! Democracia Real ya.	0
+6931	967	La única solución pasa por la educación cívica para que no se tiren colillas al suelo.	0
+7382	978	Pueden convivir ambos sistemas, no es necesario quitar uno para implantar el otro.	1
+7382	982	Ya lo han comentado anteriormente que pueden coexistir ambos sistemas, pero tratamos de facilitarnos la vida, simplificando.	1
+7382	984	Con respecto al dinero empleado en el cambio de nombre sería el mismo, ya que no se cobra por carácter que se cambia sino por el cambio en sí.	1
+7382	987	Los gps actuales ya reconocen los comandos por voz, por lo que sigo sin verle las ventajas a lo que propone.	1
+7382	988	No es un problema grave la ordenación ya que hoy en día se realiza de manera automática, el propio sistema te dice el lugar donde debe ocuparse.	1
+7382	992	Informáticamente el nombre de las calles que ha puesto no llegan a ocupar 30 bytes, lo que comprenderá que es un espacio pírrico en comparación con los sistemas de almacenamiento actuales.	1
+7382	983	En mi opinión es una horterada eso de la 5ª avenida con la 43.	0
+7382	985	Informáticamente, ¿no es más sencillo de ordenar carpetas a base de numerales que hacerlo peleándonos con las 28 letras alfabéticas?	0
+7382	980	Disculpe pero me parece una propuesta sin sentido práctico, olvidar los nombres para memorizar números, y que le quita toda la belleza a la dirección.	0
+7382	979	Es similar al Distrito Postal que usamos actualmente, pero lo que define es la calle.	0
+7482	993	No hay necesidad de cambio, porque el nombre es histórico y no es ofensivo.	1
+7482	994	Es una reminiscencia histórica, cuando se cambió el nombre a la Plaza, no se hizo lo mismo con la parada de metro, que se lleva llamando así desde su fundación en 1919.	1
+7482	1005	El barrio se llama Iglesia y no me parece mal que persista el nombre si persiste el nombre de barrio.	1
+7482	997	La plaza se llamaba así antes debido a la iglesia que está en dicha plaza.	0
+7482	1001	No entiendo por qué hemos de cambiarlo ahora.	0
+7482	996	La duda de la gente puede estar en que si se llamase Santa Engracia o Eloy Gonzalo podría no haber problema a priori, pero se llama Iglesia. Y es porque hay y había una Iglesia muy llamativa en el momento de la creación de la que fue la segunda parada del Metro de Madrid.	0
+7482	998	Me parece una propuesta absurdísima, y que tiene 107 absurdísimos apoyos.	0
+7482	1000	Hay una propuesta cultural con base detrás coherencia nominal que podría atraer a cierto público que desconoce la existencia del museo, sin entrar en cuánto.	0
+7482	1003	Cambiar estas cosas lo hace confuso. Voto no.	0
+7482	999	No vamos a dejar de omitir obviedades para tener razón, si tú dices estoy en Iglesias todos saben dónde estás.	0
+7482	995	El verdadero problema detrás de esta propuesta está en que por desgracia, es muy fácil caer en la polémica del laicismo-antilaicismo.	0
+7488	1011	Sinceramente, no creo que el problema del paro en España sea de los puestos de trabajo que genera la vida nocturna, por mucho que el suyo esté relacionado con la misma.	1
+7488	1012	Una discoteca con menos de 100 db es una discoteca muerta porque se oiría más el murmullo de la gente que la música, las discotecas necesitan un volumen para funcionar.	1
+7488	1013	Los tapones no paran el ruido de bajos. Yo también estoy a favor de la vida nocturna, tengo 30 años y salgo por las noches, pero con insonorizaciones en condiciones, que en muchos casos dado el elevado coste, los locales pequeños no se pueden permitir.	1
+7488	1016	Madrid tiene una vida nocturna que da risa. Cada vez menos locales abren hasta las 6 por no hablar sitios con música que abran después, totalmente criminalizados. Muchos artistas y DJs de prestigio no tienen interés en venir a Madrid.	1
+7488	1017	Os recuerdo que en muchas ciudades europeas las discotecas no cierran hasta la mañana del día siguiente y tienen un sistema de sonido envidiable. La clave es encontrar los espacios adecuados e instalar los aislamientos de ruido adecuados.	1
+7488	1018	Continuación del comentario anterior: Lo que no se puede pretender es matar la vida nocturna de una capital que genera tantos ingresos y que además también atrae al turismo.	1
+7488	1019	Cuando las personas carecen de la posibilidad de estar en un local, lo hacen en la calle. Dar la posibilidad de un horario amplio que se ajuste a la normativa sobre ruido es una buena opción.	1
+7488	1014	Me parece que su punto de vista no es muy realista, yo si quiere un día le invito a mi casa, donde me han abierto una discoteca latina mal insonorizada, que encima abre hasta las 6 de la mañana y me explica si poner denuncias con 25dB en el dormitorio es poner denuncias al más mínimo ruido como usted dice.	0
+7488	1010	Me parece muy bien la iniciativa para crear puestos de trabajo y regular el horario de ocio sin cierres y malos rollos.	0
+7633	1023	Esto debería ser de sentido común. Es triste que haya que prohibirlo. Aunque lo primero que prohibiría es el sonido de las teles del metro.	1
+7633	1024	Quizás sería buena idea proponer que ese sonido de las televisiones vaya vía Bluetooth, desconozco si ese precisamente sería posible, pero por mentar un sistema de conexión inalámbrico, y así poder disfrutar sin molestar a nadie del sonido de las televisiones.	1
+7633	1027	Entonces también es aplicable a la gente que toca un instrumento, con el altavoz sonando a todo trapo por el interior del vagón, pidiendo unas monedas.	1
+7633	1028	Gracias por atender mi propuesta, pero no pretendo confundir mala educación con mendicidad. Son cosas muy diferentes y no la contemplo en mi propuesta. Saludos.	1
+7633	1021	Quizás podamos conseguirlo. A día de hoy es la propuesta al respecto con mayor apoyo, pero siguen siendo pocos apoyos. Yo usé las redes sociales para darla a conocer y funcionó un poco.	0
+7633	1026	Cierto, te invito a que crees una propuesta sobre esa medida. Gracias por apoyar ésta.	0
+7633	1025	Sería bueno aprovechar los huecos para publicidad sin vender para promover una campaña de civismo en el metro: auriculares, asientos para embarazadas, etc.	0
+8188	1032	Carril bicicleta a la calzada. Siempre acaban pagando los peatones y beneficiado los coches.	1
+8188	1035	Claro, al principio es un carril para todo, porque falta cultura de carril bicicleta. Y no me refiero a que la gente no sea culta sino a que todavía no estamos acostumbrados a convivir en el día a día con ese elemento extraño en nuestra ciudad.	1
+8188	1040	Por otra lado, estamos a la espera de que nos apliquen 10000 millones de euros en recortes desde Europa. Podemos seguir obviando este tema, pensar que no pasa nada pero ahora es el momento de plantear acciones contra la pobreza.	1
+8188	1043	Si el carril bicicleta está segregado también tiene sus desventajas. Calramente hay dos posturas a reconciliar, el carrilbicismo, favorable a la instalación de infraestructuras segregadas y por otro lado el calzadismo, que apuesta por la coexistencia de las bicicletas con el resto del tráfico rodado en todo momento.	1
+8188	1044	No es una buena decisión, en mi opinión, porque la demanda es baja, la frecuencia también habría de serlo, la inseguridad aumenta por esos motivos, y el incremento de gasto es muy importante efectos en el control de accesos, trenes y mantenimiento de la red sería mucho más barata una red equivalente de autobuses en superficie.	1
+8188	1030	Si hubiera seguridad para los usuarios de bicicletas mucha más gente la usaría como transporte habitual.	0
+8188	1033	Que lindo ver que se desarrolla una cultura de transporte sostenible y saludable.	0
+8188	1037	Es muy lógico pedir que se invierta un dinero que no hay en carriles bicicletas por delante de muchas otras cosas, tonterías como sanidad limpieza ayudas sociales.	0
+8188	1029	El separar los carriles no es garantía ningúna de seguridad, sino más bien el acostumbrar a los coches a darse cuenta de que no son los dueños de la calle.	0
+8188	1031	Estoy contigo, algunos ciclistas van a su aire sin tener en cuenta ni coches ni peatones.	0
+8253	1046	Primero porque supone un gasto público importante y ningúno estamos dispuestos a pagar más impuestos.	1
+8253	1047	Por la conciliación. Abrir 24 horas significa que haya personal trabajando toda la noche.	1
+8253	1048	La biblioteca esta vacia a partir de las 2 y el gasto de luz y personal es insostenible!	1
+8253	1049	Puede que haya más de 200 bibliotecas, pero desde luego será muy mal distribuidas.	1
+8253	1050	En mi zona de Hortaleza, hay muy pocas. Es imposible encontrar un sitio en estas.	1
+8253	1054	La sala de estudios de la que hablo es céntrica y eso que no es de las peores; pero los chirríos que hace la puerta cuando la gente entra y sale continuamente, la insuficiente luz que se nos proporciona y los sitios enanos creo que se deberían mejorar.	1
+8253	1058	En mi barrio hay dos salas de estudios y solo una biblioteca pública. Yo lo que pido son más puestos en las salas de estudios, o más salas de estudios, o sino más puestos en la zona de estudio de una biblioteca no en la sala de lectura, que no es lo mismo.	1
+8253	1059	Para estudiar lo único que hace falta son ganas. Si no estudias no lo achaques a la biblioteca.	1
+8253	1060	No creo que sea ninguna moda pues ya en tiempos de mis padres se iba a Bibliotecas/salas de estudios a estudiar.	1
+8253	1045	24 horas no, pero muchas de ellas ofrecen servicio ampliado hasta la 1 de la mañana en períodos de exámenes.	0
+8253	1053	También estoy de acuerdo con que mejoren las instalaciones.	0
+8253	1052	Para todos los estudiantes que solemos ir, te aseguro que los sitios que ofrecen son verdaderamente insuficientes.	0
+8640	1061	Si sois neoliberales con todas los consecuencias, lo privado es privado no pretendas que subvencionemos una empresa privada sin recibir nada a cambio.	1
+8640	1065	Evidentemente la calidad finlandesa no se puede tener sin sus impuestos y la implicación de las familias y sobretodo del gobierno; allí la educación es de interés nacional, aquí un motivo igual que cualquier otro para politizarlo.	1
+8640	1063	Mira yo no estoy aquí para enseñarte a leer unas estadisticas, ni para interpretar unos datos, eso tenias que haber prestado más atención en tu colegio privado lo siento y leete todo el árticulo con menos profesores más alumnos y pagandoles menos y aun así sois menos eficaces en los concertados.	0
+8640	1064	Cuesta menos porque los profesores cobran menos y trabajan más horas y porque tampoco entran otros gastos que también asumen los centros, gastos que sí asume la administración en la pública.	0
+10195	1071	sorprende mucho que hable tanto de los watios y no de la frecuencia, ya que como dice una antena desprende una radiación de 10w 6 veces menos que una bombilla convencional? apaguemos las farolas de la ciudad!	1
+10195	1075	Han salvado miles de vidas. El caso más famoso fue el Titanic en 1912 a raiz de aquella tragedia, la incipiente Unión Internacional de RadioComunicaciones obligo a los barcos mayores de un determinado tonelaje a llevar radio.	1
+10195	1077	único problema de salud no es el cáncer. Hay otro tema crítico, y es que las estaciones base están emitiendo 24 horas al día.	1
+10195	1079	También los rayos-X han salvado vidas, pero los utilizamos lo mínimo posible y con todas las medidas de seguridad.	1
+10195	1081	El niño no esta 24 horas en el colegio. En casa el niño nada de nada de wifi tampoco.	1
+10195	1078	Lo que sí está claro es que es un problema complejo y que, por tanto, hay que aplicar el principio de precaución.	0
+10195	1074	Si lee un poco sobre la historia de la radio y consulta las hemerotecas, vera que las ondas de radio, no solo no han matado a nadie, sino todo lo contrario.	0
+10195	1072	Será una casualidad que las ondas con mayor frecuencia son las ionizantes y en dicho espectro las ondas de telefonía están por encima de las de televisión y radio?	0
+10195	1084	Es una pena. Los fundamentalistas anti-antenas solo sabeis ridiculizar. Sois incapaces de dar datos objetivos y razonar seriamente por qué, por ejemplo, prohibir unas antenas y otras que llevan 50 o más años emitiendo AM FM TV etc.	0
+10195	1083	No a 100 metros como dice la ley, que es lo que propone esta iniciativa, pero pensándolo bien, tienes razón.	0
+10195	1076	Señores ignorantes: las ondas radioelectricas no matan sino salvan vidas todos los días.	0
+10195	1069	Se sorprendería lo poco que sé de fútbol. Otra respuesta sin acentos, está muy bien que sea un ingeniero super experto en ondas em pero además de ciencia también podríamos interesarnos un poco en la lengua, cual es su punto de vista en este asunto?	0
+10195	1073	Que tendra que ver la velocidad con el tocino. Dejese de similes tontos y haga el favor de argumentar sus miedos.	0
+10675	1088	Respecto a las discriminaciones negativas, existen aunque no estén contenidas en leyes o normas, si lo están en usos y procedimientos, por ejemplo en el perfilamiento étnico policial, denunciado por los propios sindicatos policiales.	1
+10675	1090	Creo que no hay discriminación y racismo legal, que las personas lo hagan es otro tema, triste pero eso se nos escapa de las manos.	1
+10675	1094	Lo que he dicho es que no es justo la discriminación positiva. Es como si usted que no me conoce tuviera que ser juzgado por mis actos, eso sería injusto.	1
+10675	1097	Así que es muy partidario vender lo que nos interesa y pintarlo como si mi hipotético hijo negro no pudiera ser un superheroe como Hancock y siempre fuera a ser Kunta Kinte, como si no hubiéramos avanzado nada, que queda por hacer sí.	1
+10675	1099	Si se informase, sabría que España ha firmado una legislación internacional al respecto de la diversidad cultural y para con las minorías, no se trata de quedar bien sino de cumplir la ley.	1
+10675	1100	Obvio que nunca seré mayoría si somos menos, pero el no ser mayoría no quiere decir que tenga menos derechos o se me reconozcan menos obligaciones que otro ciudadano de lo que llama mayoría.	1
+10675	1098	Yo lo que no entiendo es el lenguaje gilifacha... Respecto a las discriminaciones negativas, existen aunque no estén contenidas en leyes o normas, si lo están en usos y procedimientos.	0
+10675	1095	Ahora piense en el tipo de papeles que le ofrecen en los medios/producciones públicos y... mire a ver si hay igualdad de oportunidades o no.	0
+10675	1092	Nadie está hablando ahí de medidas concretas, mucho menos de discriminación positiva. No crees que bastante habría con acabar con la discriminación negativa?	0
+10675	1093	No estoy de acuerdo ya que a nadie se le prohibe acceder a ningún puesto político o de dirección por su creencia raza condición.	0
+10675	1091	Cuando las condiciones de acceso a esas políticas no son iguales, pues las minorías tienen medios desiguales a la normalidad, se rompe la igualdad, y se necesita políticas de acción positiva para igualar las condiciones de acceso.	0
+10687	1101	Para organizar un transporte colectivo en la ciudad hay que comprar y mantener autobuses o trenes. Esto sale caro. Sin embargo, para utilizar mejor nuestros coches que ya los tenemos comprados, y cada uno mantiene el suyo no hay que hacer más gastos, solamente empezar a ahorrar.	1
+10687	1102	Yo opino que deberían prohibir el blablacar por competencia desleal y transporte de personas por personal no especializado. No pertenezco ni defiendo el mundo del taxi, pero respeto sus competencias y su trabajo profesional y honrado.	1
+10687	1103	Las estadísticas dicen que el 60% del petróleo se gasta en transporte. La mejor forma de mejorar esto es ser más eficientes, llevando más personas en muchísimos vehículos que ahora van solo con el conductor.	1
+10687	1108	Si ganas 800 y te dejas 200 para ir a trabajar, tienes un problema. Vamos a arreglar esto, y que la gente ahorre ese dinero para gastarlo en otras cosas.	1
+10687	1109	No confundamos las cosas. Pagáremos los impuestos que hagan falta. Pero mejor que no sea a base de consumir combustible a lo tonto. Esto solo sirve para agotar las reservas de petroleo antes de tiempo, para endeudar a un país importador como el nuestro, y para producir contaminación del aire que respiramos.	1
+10687	1110	Creemos que, cuando mucha gente hagamos esto mismo para ir a trabajar, viviremos mucho mejor, porque se acabarán los atascos de tráfico, bajará la contaminación y todos ahorráremos tiempo o dinero, o las dos cosas.	1
+10687	1113	No hay conductores torpes, es que la M30 está saturada con coches parados, que llevan solo a su conductor. En cuanto quitas unos pocos coches, la circulación vuelve a ser fluida, los tiempos de viaje se reducen y ganamos calidad de vida.	1
+10687	1112	Si no muevo mi coche para ir a trabajar, un trabajador de mi barrio dispondrá de un sitio libre.	0
+10687	1107	Poner dinero en el bolsillo de los trabajadores es reactivar la economía productiva y salir de la crisis.	0
+10687	1105	Es imposible que nada en la vida sea todo ventajas. Es uno de los fallos que le veo a Blablacar: Es el conductor el que fija un precio por asiento, antes de saber cuantos pasajeros llevará.	0
+10687	1114	El tiempo perdido en el desplazamiento podría ser incluso mayor al tener que esperar al vehículo, conducción más lenta o torpe que la tuya.	0
+10996	1117	El Ayuntamiento tendría que subvencionar al metro para hacerse cargo de todas las pérdidas económicas que las empresas tendrían que afrontar.	1
+10996	1119	Si le quitamos una parte muy importante de la cual se financia que son los ingresos provenientes de los usuarios de la red, y le metemos más carga de pago al estado y a la comunidad de Madrid habrá que recortar por otras partes.	1
+10996	1120	El abono 3ª edad debería ser progresivo, con precio completo para las pensiones más altas y más barato incluso todavía para las más bajas.	1
+10996	1121	Lo que no tiene ningún sentido es que todos y cada uno de jubilados paguen lo que pagan por el abono cuando muchos de ellos tienen una situación económica que ya nos gustaría a muchos de nosotros.	1
+10996	1127	Esto no tiene competencia el ayuntamiento, la tiene el consorcio. El ayuntamiento participa pero la mayoría la tiene la comunidad. Esta propuesta no sirve para nada.	1
+10996	1129	Las personas desempleadas no lo usan precisamente por eso, porque es una desincentivación para ellos, si quieres que la gente esté motivada tienes que incentivarles a que se muevan, si no tienen dinero sólo se pueden mover andando.	1
+10996	1130	Con la peatonalización de calles, carriles bicicleta nuevos, aumento carriles solo autobús, cierre del centro por contaminación, etc. Con un abono barato la mayoría de los madrileños de ciudad y comunidad podríamos movernos sin utilizar el coche.	1
+10996	1131	Vamos a ser serios la mayoría de gente que no va en trasporte público a trabajar no va en bicicleta. Va en coche y teniendo en cuenta los casos recurrentes de contaminación no es tan irrisorio sostener con impuestos en 20 o 30 euros el trasportepublico porque no solo estas manteniendo ese precio estas evitando contaminación, porque la gente cogería menos el coche, además al coger la gente menos el coche también habría menos atascos y el propio trasporte público iría más rápido.	1
+10996	1128	El precio del abono debería rebajarse para las personas en paro, al menos, eso se debería igualar con el precio que ahora tienen los jóvenes hasta 25 años.	0
+10996	1115	Siempre que esa bajada de ingresos sea a costa de subir el impuesto a los vehículos a motor contaminante.	0
+10996	1116	Está claro que la gestión también genera sobrecostes y que todo el mundo quiere ver contrapartida de sus impuestos.	0
+11134	1132	Los profesores no son monitores de tiempo libre. Además, en julio muchos se dedican a formarse y el 1 de septiembre están en sus puestos preparando el curso.	1
+11134	1143	Totalmente de acuerdo con su propuesta. Parece que hay mucho funcionario-profesor en estos foros, pero es una realidad que el exceso de derecho de unos está perjudicando gravemente la conciliación familiar.	1
+11134	1137	Qué le parece el sistema europeo? Con un buen aire acondicionado del centro para abajo se podría implantar.	0
+11134	1141	Creo que muestro respeto hacia su opinión, solo señalo que es, precisamente, una opinión, que no se basa en hechos reales.	0
+11134	1138	Yo tengo que salir a trabajar con 40 grados y con 2 bajo cero, y mis hijos como muchos otros acudir pagando ESO si a centros ya el calor se rebaja no?	0
+11134	1140	Respeto su opinión, respete la mía. No vote mi propuesta y listo.	0
+12131	1144	No solo hay que poner carteles de prohibido fumar, hay que prohibirlo de verdad, poniendo multas, que es la única manera de que se acaten las normas.	1
+12131	1145	No soy fumador pero agradezco que alguno se encienda un cigarrillo para que llegue antes el autobús. Un poco de seriedad, me molesta el humo del tabaco pero es un espacio abierto y con su fumeteo se pagan impuestos.	1
+12131	1146	Un si rotundo, la verdad es que no se respeta nada la ley antitabaco, te encuentras personas en los andenes de atocha fumando sin ningún pudor, debería poner el Ayuntamiento de Madrid o la Comunidad de Madrid policías municipales controlando que se cumpla la ley, y multas severas a quien la incumpla.	1
+12131	1147	Estoy a favor de esto, pero el problema es que la ley antitabaco no regula las marquesinas, por lo que no se puede sancionar el incumplimiento.	1
+12131	1148	Mi comentario va por todos los maleducados que no respetan. Si usted se comporta como dice, no debería sentirse aludida.	0
+12131	1151	Tendría que investigar pero creo que cualquier ciudad puede extender la ley antitabaco siempre que no entre en conflicto con la estatal. Un ayuntamiento no puede permitir dejar fumar en un hospital, pero si puede añadir zonas donde prohibirlo.	0
+15711	1153	Valdebebas no necesita ningún ARTEfacto, sino más atención básica que nos ayude a sentirnos menos apartados y, como bien dice el creador de este foro, a seguir desarrollandonos como barrio.	1
+15711	1154	En Valdebebas no hay un centro de salud, biblioteca un polideportivo, colegio. No hay nada y no creo que haga falta ahora y en esa parcela.	1
+15711	1157	No tenemos ningún servicio público. Es vergonzoso que se limite a construir viviendas que generarán aún más presión a un barrio si servicios sanitarios, transporte etc.	1
+15711	1164	Queremos en una parcela municipal dotacional, que las hay llenas de cardos en el barrio, una biblioteca pública de préstamo de libros.	1
+15711	1175	Vivienda experimental, aporta 0 dotaciones al barrio. Lavandería y auditorio es lo último que necesita el barrio.	1
+15711	1167	Por qué quitan mi comentario donde hago referencia a la noticia de El País donde denuncian la adjudicación a dedo de este disparate?	0
+15711	1170	Soy vecina de Valdebebas, y suscribo prácticamente lo dicho. Solo unas puntualizaciones: - Existen parcelas para viviendas sociales en el barrio, asignadas al Plan Alquila.	0
+15711	1174	El arte-facto no es algo terrible como muchos queréis hacer creer.	0
+15711	1165	Queremos gestión municipal, y si se alquila alguna sala a alguna organización o asociación para algún acto concreto, que paguen un canon al ayuntamiento.	0
+15711	1156	Deberían centrarse en equipar el barrio con lo que de verdad se necesita.	0
+15711	1160	El Ayuntamiento creó esta plataforma para que todos pudiéramos decidir, así que confio en que escuche.	0
+15711	1173	Es una barbaridad pero yo pienso que no les interesa la opinión de ningún Madrileño, solo quieren beneficiarse y destrozar un barrio nuevo de planificación familiar.	0
+15711	1162	Viva la Libertad de expresión en podemos, no paran de borrar comentarios, y luego somos fachas los demás!.	0
+15711	1169	Pego aquí parte del comentario de la Junta de Compensación al respecto, que creo es compartido por la inmensa mayoría de los vecinos.	0
+15711	1155	Ocultismo total con esta propuesta! El ayuntamiento, en contra de lo que abandera, no está siendo transparente ni está escuchando a los vecinos de este nuevo barrio.	0
+15970	1181	No creo necesario poner con más normas ya están lo que hay que hacer es cumplirlas es bien visible un anciano persona con bastón embarazada y que nadie se mueva de su asiento ni siquiera de los que les están reservados siguen con el móvil o mirando para otro lado en más de una ocasión he tenido que pedir a alguine que se levantara para que la persona anciana, embarazada, etc. Pudiera sentarse creo que ESO es lo que debemos hacer los ciudadadanos ante la falta de respeto y civismo o es que una chapa va a cambiar las cosas, cuando se ignoran las normas que claramente hay establecidas?	1
+15970	1179	Pero me temo, que una chapa identificativa no va a cambiar el hecho de que algunas personas son sencillamente maleducadas o insensibles a las necesidades de otros.	0
+15970	1185	En mi caso, cuando entra gente en el vehículo, siempre procuro alzar la mirada por si alguien necesita sentarse.	0
+15970	1176	Estoy de acuerdo en que deberíamos ser más cívicos y levantarnos del asiento, cuando alguien lo necesita más que nosotros.	0
+15970	1184	No es ningúna broma. Mi mujer esta embarazada de 4 meses de nuestro segundo hijo, y te puedo asegurar que tanto en el primero embarazo como en este, muchas veces he tenido que ser yo el que recuerde a otros ciudadanos, la preferencia que tienen las embarazadas en los asientos del metro.	0
+15970	1182	También serviría, para aquellas mujeres embarazas que se encuentran en los primeros meses de gestación y aun no es tan fácil identificarlas como embarazadas.	0
+15978	1189	Entonces bien, lo digo porque el único medio de transporte que se puede calcular lo que vas a tardar es el metro el autobús depende de que suba una persona u otra con dificultades de que haga paradas de los semáforos de los atascos los taxistas en fin por eso si se pudiera agilizar quitando alguna parada o el sistema de pago genial gracias Jorge.	1
+15978	1190	Me parece bien, pero ralentizara más el servicio. Madre mía. Si para billete a veces parecen los tiempos de Paco Martínez Soria, con tarjeta ni te cuento.	1
+15978	1191	Que si busco la tarjeta, que se ha caído la red. Vayan sin prisa en autobús -.	1
+15978	1192	Si el contact less, datáfono o similar pierde conexión montado bien no pasaría nada. Guarda tu número y lo envía cuando lo recupere. Claro, si no tienes saldo chollo, pero el usuario no se vería perjudicado. Al fin y al cabo es un transporte público debería estar implantado así.	1
+15978	1196	Salía en pocas semanas según ley en la prensa. Creo que tu propuesta ha sido cumplida sin llegar a ser votada. Y tiene sentido. A quién no le interes? Usuario puede pagar con tarjeta, banco lleva comisión y ayuntamiento consigue que usuario sin efectivo o con billete grande user su transporte.	0
+15996	1197	La interacción 5 regulador bioclimático me parece que es de reducido efecto frente a las zonas de pinar existente que son mejor regulador que cualquier elemento edificado con función de tiro de chimenea o la reflexión de radiación por parte de potenciales invernaderos en la azotea ni siquiera me convencen como supuesto refuerzo.	1
+15996	1201	La concepción de utilización del espacio de Gea21, redactores de la propuesta de Anteproyecto, no me convence como una solución viable para el barrio considerando el impacto ambiental y social.	1
+15996	1202	Colindantes a carreteras, no me parece una buena concepción dada la deposición de metales en el suelo existen diferentes investigadores dentro de la úe que están dedicando su esfuerzo a estos fenómenos y potencial paso a los alimentos cultivados.	1
+15996	1204	Las infraestructuras que se necesitan corresponden en su mayoría al gobierno de la Comunidad y ya están las APA y las AAVV luchando por un instituto público desde hace mucho tiempo, cuyos terrenos, por cierto han sido donados por el ayuntamiento Y rechazados por la CAM en un acto de clara prevaricación en mi opinión.	1
+19024	1206	Con el nuevo sistema esto va a cambiar radicalmente teniendo las calles mucho más sucias y teniendo focos de infección accesibles a todos.	1
+19024	1214	Ustedes me están recortando un servicio... Lo que ustedes pretenden hacer, no es reducir costes, es un recorte en toda regla.	1
+19024	1215	Menos estudios de impacto de género para el soterramiento de la M30 y más sentido común.	0
+19024	1211	Tampoco han tenido en cuenta que los nuevos contenedores no son accesibles para ninguna persona con problemas de movilidad o visuales.	0
+19024	1209	Ahora adornadas con contenedores de basura putrefactos que devaluaran nuestra vida cotidiana al igual que la de la imagen de nuestro fantástico barrio y de nuestras viviendas.	0
+19024	1218	No entiendo porque nosotros no tenemos ese derecho.	0
+19024	1219	Estos cubos no se colmatarían y no habría residuos alrededor de los mismos.	0
+19170	1221	el tema de las operaciones debe ser accesible y gratuito... cuanto antes se haga mejor para que las personas se desarrollen correctamente.	1
+19170	1222	las operaciones deben ser accesibles y gratuitas... son absolutamente necesarias para su desarrollo.	1
+19170	1224	una operación de esa envergadura no debería hacerse nunca bajo presión o por obligación de la sociedad. Nadie tiene un cuerpo equivocado.	1
+19170	1225	las operaciones de cambio de sexo son operaciones estéticas, de momento no se puede cambiar el sexo.	1
+19170	1227	un transexual, que tenga el cuerpo que le corresponde creo que es mejor que se hagan operaciones cuanto antes mejor para su correcto desarrollo.	1
+19170	1231	Mucha gente ha sufrido por no ser normales y en lugar de cambiarles a ellos... hemos cambiado la normalidad, para que encajen.	1
+19170	1235	La Seguridad Social debe tener otras prioridades antes que esa, hay muchas especialidades no cubiertas y que afectan a un mayor número de personas.	1
+19170	1237	algunos médicos no tienen la ética que deberían tener... este tipo de operaciones como necesarias y accesibles por la ss para que ese riesgo se minimice.	1
+19170	1239	estadísticamente, también mueren antes que la media, es un dato a tener en cuenta, tanto si son operados como si no, la seguridad social nunca se hace cargo de ellos.	1
+19170	1244	como tener y mantener unos dientes para comer, pero la prioridad de esas personas es ser lo que tienen que ser, por tanto es una prioridad también.	1
+19170	1243	una persona se puede hacer una liposucción por estética, pero no creo que una persona se haga una operación de cambio de sexo por capricho.	0
+19170	1228	si un niño se siente niña y ve que su cuerpo es diferente a lo que tendría que ser, se sentirá mal, o no?	0
+19170	1230	¿Por qué no cambiamos la normalidad primero, antes que cambiar los cuerpos?	0
+19170	1226	algunos transexuales están bien con los genitales que tienen, y no quieren ni tienen por qué cambiárserlos.	0
+19170	1238	cuando un médico dictamina que algo es necesario, lo debe cubrir la ss.	0
+19170	1229	el problema está en presionar a la gente para que cambie su cuerpo y lo adapte a unos cánones que son culturales, no naturales.	0
+19170	1233	el problema que yo planteo es... ver a transexuales con operaciones chapuceras y con 50 años me parece triste.	0
+19853	1250	Por favor, apoyar a los vecinos de la zona de Comillas que también es Madrid Rio y está muy mal comunicada a conseguir la parada de metro de la Linea 11 Puente Praga.	1
+19853	1253	Planteas una línea muy completa que discurre por principales estaciones tren y cercanías, zonas aisladas y zona universitaria.	1
+19853	1254	Muy necesaria una nueva línea de metro que comunique toda la zona en torno a la m30, que discurra por zonas tan mal comunicadas.	1
+19853	1255	personalmente creo que se aleja demasiado y se haría muy larga habría que plantear una línea más en la zona este	1
+19853	1260	Por que no puede recibir apoyos.	0
+19853	1247	Aparte de la completa inviabilidad presupuestaria y más que dudosa funcional de la propuesta.	0
+19853	1257	Hola, muy útil tu propuesta, ya hay una propuesta parecida, unamos apoyos!.	0
+19853	1249	Es una buena idea para mejorar el transporte público en la Universidad y en la zona este de Madrid.	0
+19853	1258	Yo vivo muy cerca y tienes razón. Tal vez se pueda añadir un proyecto a esta linea!.	0
+19853	1252	Es verdad que el cerro tio pio está mal comunicado, pero no hay calles anchas por esa zona, y date cuenta de que mucha gente tendria que retroceder más para tomar la nueva circular para coger otra linea del este.	0
+19914	1261	La incineradora de Valdemingómez se encuentra a unos 7 km del mayor mercado de Abastos de Madrid: MercaMadrid... se están comiendo las dioxinas, toxinas, y resto de compuestos tóxicos...	1
+19914	1262	El problema es que esta incineradora no cumple los estándares para estar situada cerca de zonas pobladas. Y la conclusión es que cada vez más personas padecen problemas de salud derivados de estas irregularidades...	1
+19914	1263	Señores tienen todos los datos informes evidencias es extremadamente tóxica qué más necesitan para tratar este asunto como lo que es una amenaza real para la salud pública con consecuencias graves y repito reales...	1
+19914	1270	Madrid sea todo lo contrario, la incineradora produce electricidad para una población de 50000 habitantes con su industria y viven de ella más de 2500 familias que con puestos de trabajo directos e indirectos comemos de lo que se produce...	1
+19914	1275	El sur de Madrid somos la escoria de la almendra, donde se encuentra tanto Valdemingómez como 6 plantas de depuración de aguas de las 8 que hay en Madrid, con el mal olor que general el tratamiento de aguas residuales...	1
+19914	1279	La legislación ya viene marcada desde Europa en la línea que sugieres desde 2003 y los gobiernos todos desde entonces, están incumpliendo esa normativa de reducción y cuidado de todos...	1
+19914	1280	Incineradora contamina y por tanto perjudica la salud y el medio ambiente...	1
+19914	1281	Las emisiones que echa a la atmósfera la incineradora están muy por debajo de lo que exige Europa y se mandan a diario al Ayuntamiento de Madrid y a la comunidad los niveles de emisiones...	1
+19914	1282	Lo que no es normal que en Barcelona la incineradora produzca Energía limpia según la Alaldesa Ada Colau y aquí en Madrid sea todo lo contrario...	1
+19914	1265	Tenemos entre todos que difundir esta propuesta por los medios sociales para que tenga más apoyos. No más olores. No más picores de ojos. No más incineradora...	0
+19914	1272	Estamos hablando de la salud de los ciudadanos! Gracias a todos lo que apoyan esta propuesta que afecta a todo Madrid y alrededores...	0
+19914	1271	Por favor que se soluciones ya, no podemos abrir las ventanas, no podemos respirar, el olor es nauseabundo, nos pican los ojos, hasta cuando...	0
+19914	1266	No se podría mejorar el proceso de tratamiento de gases de la incineradora para que no emita sustancias cancerígenas? España tiene muy pocas incineradoras comparado con el resto de países europeos, ya que es una forma de recuperar energía reduciendo el volumen de residuos...	0
+19914	1277	Creo que hay que terminar de una vez con esta incineradora y proteger la salud de llas s ciudadanos...	0
+19914	1276	Está claro que los edificios de incineradoras tienen que empezar a colocarse en sitios estratégicos que no molesten a nadie y que tampoco sean zonas verdes o reservas naturales...	0
+19914	1269	Propuestas como estas no se tendrían ni que votar, ¡estamos hablando de la salud de los ciudadanos! Gracias a todos lo que apoyan esta propuesta que afecta a todo Madrid y alrededores...	0
+20389	1285	La ciudad de Madrid tienen muchísimos árboles y está rodeada de enormes extensiones arboladas. No creo que el incremento de árboles en la ciudad pueda ser significativo.	1
+20389	1287	Me parece una propuesta muy necesaria para todos los Madrileños. Además de plantar, deberían talar los viejos. Son peligrosos y no aportan nada.	1
+20389	1289	Es una vergüenza lo que están haciendo con los árboles más grandes en Madrid. Talan árboles gigantes para plantar arbolitos que no cuidan y mueren al poco tiempo.	1
+20389	1290	La tala masiva de árboles empezó con botella y no se explica bien. Los ciudadanos no saben qué enfermedad tienen y protestan.	1
+20389	1291	Las grandes circunvalaciones de La M-40 que generan gran contaminación por la gran cantidad de vehículos que mueven provocan alta contaminación y necesitan filtros naturales de este tipo para mejorar la calidad del aire en Madrid.	1
+20389	1292	Una reforestación masiva puede tener un efecto benéfico, no solo para la vista y la respiración de aire un poco más puro, sino para cambiar un poco el microclima de la ciudad.	1
+20389	1293	La calidad del aire suele ser mala por culpa de las partículas de los motores diésel, y los árboles no son capaces de limpiar ese tipo de contaminación.	1
+20389	1294	Un árbol de tamaño aceptable requiere más de 10 o 15 años. Si ahora plantas semillas, para cuando puedan hacer algo esos árboles ya estaremos atufados.	1
+20389	1288	Stop tala de árboles indiscriminatoriamente. Por lo menos si se tala que se reponga el árbol.	0
+20389	1283	Cualquier propuesta que conlleve el aumento y el cuidado de las zonas verdes jardines, arbolados, césped. Significa proponer salud y mejorar la ciudad.	0
+20389	1284	Creo que se debe reforestar no solo el centro de la capital si no todo el perímetro de Madrid.	0
+20657	1295	La subida se propaga a otros territorios pues todos esos pisos, edificios y fincas dedicados en exclusiva al turismo hacen que la gente tenga que escapar a otros barrios.	1
+20657	1300	Derecho a vivienda sí, pero en ningún sitio dice que tenga que ser en el centro. Yo nunca he podido vivir en el centro y tengo 47 así que no viene de ahora.	1
+20657	1301	Estoy muy de acuerdo con que regulen y limiten el alquiler turístico, para que los ciudadanos de los barrios no sean expulsados del lugar donde siempre han vivido.	1
+20657	1304	Es urgente que esta propuesta salga adelante antes de que esta propuesta caduque. - Reducir de 27000 a 10000 apoyos el límite actual para pasar a la fase de votación.	0
+20657	1299	El derecho a una vivienda digna, y el derecho a no verse exiliado del barrio donde uno ha vivido siempre, deberían estar por encima del derecho a hacer turismo barato.	0
+20657	1298	Las viviendas turisticas son solo el 0.7% de la vivienda en Madrid.	0
+20657	1297	Me gustaría ver datos que confirmen que la subida en los precios de los alquileres se deban a la reconversión de viviendas en pisos turísticos.	0
+20657	1302	Me encanta conocer nuevas ciudades sin gastar en hoteles lo que no puedo permitirme. No tengo ningún problema en vivir fuera del centro de Madrid.	0
+21171	1305	Es un absurdo. Una norma discriminatoria, generalizada y sin estudio exhaustivo previo. Al tuntún y sin conocimiento.	1
+21171	1306	Más zonas de skate sería una excelente iniciativa de cara a potenciar hábitos saludables. Habría que realizar un diagnóstico en profundidad para compatibilizar la seguridad de los viandantes con esta práctica lúdica y saludable. Quizá sea necesario restringir, seguro que no es necesario hacerlo en todas las vías.	1
+21171	1307	Lo que de verdad es asombroso es que en el diseño de la portada de esta web aparezca un monopatín. La imagen de los skaters gusta mucho para dar la sensación de un ayuntamiento joven y moderno, pero por otro lado prohiben su uso. Esto me parece una hipocresía enorme.	1
+21171	1308	que vayan en contra de conciliar todas estas formas de movilidad, nunca una prohibición de este tipo puede ser una solución. Se puede educar y fomentar el civismo y la seguridad, pero esta posible prohibición me parece una discriminación realizada sin conocimiento.	1
+21171	1310	También ampliaría el uso de monopatines en lugar de prohibirlo. Es un nuevo medio de transporte para ir a trabajar sin contaminar y dejar el coche en casa.	1
+21171	1311	Utilizo mi monopatín como medio de transporte sostenible, es un medio más, que permite moverte y disfrutar de la ciudad de Madrid con una libertad y facilidad increíble. Respetando al resto de medios y por supuesto a los peatones, porque también soy una de ellos.	1
+21171	1312	Es una puta chorrada suprimir el patin en calles, cuando teneis millones de personas traficando en las calles que hacen un mayor daño a la sociedad, suprimiendo el patín no creareis nada solo más ganas y más ganas de buscar y hacer lo que nos gusta deberíais respetar el skate es un arte y un estilo de vida, a su vez estáis fastidiando el empleo a mucha gente que vive de esto no solo a los que patinan si no al equipo que le rodea.	1
+21171	1313	Las aceras so para los peatones y se debiera ser mucho más duro en la prohibición de toda clase de vehículos como monopatines y bicicletas o ¿es que los peatones contaminamos? Podéis pedir el uso y respeto para circular por los lugares habilitados para vehículos pero no por las aceras que son para que los peatones podamos circular si peligro con niños y personas mayores.	1
+21171	1314	La libertad está en poder moverte por donde quieras y cuándo quieras, si crean más skateparks-perfecto, pero ir por Madrid con la libertad de hacer lo que te gusta sin que lo consideren casi como un crimen y sin preocuparse por multas y patinar módulos urbanos que no tienen ningún fin, es lo mejor, creo que el 99% prefieren calle, que skateparks.	1
+21171	1315	A mí más que quitar la prohibición de circular, creo que es mejor crear más skateparks donde los patines no molesten a peatones o automóviles, y además no se utilice mobiliario público para realizar trucos.	1
+21171	1316	No contaminan y van a velocidades pequeñas, las ciudad esta atestada de coches, no se puede aparcar y esta es una buena forma de moverse.	1
+21171	1318	Perdonad la intromisión, pero esta propuesta me parece muy importante y no es mía. Efectivamente el/los monopatines no contaminan, pero su uso por las aceras a 30 Km. /h. No es compatible con el del peatón. Puede producir, de hecho ya lo hace, colisiones que pueden ocasionar problemas graves y permanentes de movilidad funcional a niños y personas mayores.	1
+21171	1309	Un vehículo que no contamina, ni si quiera acústicamente. Y que ocupa la mitad de espacio que una bicicleta. Y quieren prohibirlo? ¿Han perdido el juicio?.	0
+21171	1317	Me parece genial circular con monopatín eléctrico siempre respetando la velocidad y por las aceras poco transitadas y no molestando a los peatones ya que eres uno de ellos y más para personas mayores que tienen movilidad reducida eso es de Madrid al cielo.	0
+21567	1323	La policía municipal sí que reconoce el problema, hace lo que puede, se presente allí, vigila que el chino que vende las cervezas cierre a su hora, los separa cuando el alcohol los pone violentos, hace informes para que vayan a limpiar la inmundicia que generan, etc.	1
+21567	1326	Es increíble como ciertas personas creen que todo es valido mientras se cumplan las horas de restricción o que en fin de semana o fechas señaladas, se puede hacer lo que uno quiera sin ningún límite de falta de respeto al que vive al lado.	1
+21567	1327	Los sonidos muy graves son los francamente horribles, que se expanden a gran distancia atravesando muros. Su nivel sonoro en dB podría medirse como muy bajo pero siguen siendo insufribles al oído humano.	1
+21567	1325	Convivo con seres que deberían vivir en mitad del monte porque en comunidad no saben convivir, después de miles de avisos, los primeros de buenas maneras e intentando conciliar, lo único que hacen es incrementar su nivel de ruido y molestia y reirse de los vecinos.	0
+21567	1328	Habría que pensar -pero esto es asunto para otra administración- por qué algunos coches pueden calzar grandes subwoofers: al pasar la ITV se les controla el ruido del escape pero no el de sus equipos sonoros.	0
+21567	1324	Pero reconocen que no pueden solucionarlo, que la única opción es que los ciudadanos avisemos y que ellos se presentan para llamarles la atención.	0
+21567	1321	Mi grado de ansiedad y estrés esta por las nubes.	0
+21567	1319	No se debe molestar nunca, ya sea festivo o no.	0
+22742	1331	Esto no es un pueblo, ya hay suficientes parques y espacios para que los niños puedan jugar.	1
+22742	1332	Que se cuiden los espacios de los niños que no juegan por estar insalubres y ocupados por yonkis borrachos etc.	1
+22742	1342	Muchísimas familias hemos aterrizado en Carabanchel en los últimos tiempos y las infraestructuras, los parques, las calles están abandonadísimas.	1
+22742	1343	no había quejas porque las hay ahora. Madrid ha ido creciendo y no es lo mismo que un pueblo, es una ciudad con tráfico, grande y con mucha gente.	1
+22742	1344	Como ya os comenté en el Medialab La idea es buena pero hay que acercarla a los barrios y no distritos Hay distritos enormes como el mío fuencarral el Pardo en el que es imposible que esa idea se haga adecuadamente.	1
+22742	1347	De esta propuesta me parece muy bien lo de mantener los parques limpios, cuidados, bonitos, con buenas instalaciones, pero de ahí, a suprimirlos y poner columpios por todos los sitios no me parece bien.	1
+22742	1351	Desde luego, el centro de Madrid no es muy amigable con la infancia. Si se aprueba esta propuesta, las cosas podrían cambiar porque se podría desarrollar un plan específico para la infancia en el distrito Centro.	1
+22742	1348	Propuesta Interesante. La he apoyado y ojalá salga. Pero habría que empezar por cuidar los parque que ya tenemos.	0
+22742	1336	Por supuesto que apoyo vuestra propuesta. Una ciudad más habitable por la más pequeños lleva consigo más socialización de los mayores, menor número de coches, menos contaminación, menos ruido y una ciudad más humana en definitiva.	0
+22742	1329	Hay que mantener las instalaciones que se tienen bien y limpias.	0
+22742	1345	Esta propuesta puede hacer que el mantenimiento de los parques infantiles sea algo de obligado cumplimiento y no dependa del inspector de turno.	0
+22742	1349	Sobre la reducción de tráfico en el centro, creo que ya sabes que hay una iniciativa que se ha puesto recientemente en marcha.	0
+22742	1350	Si se aprueba esta propuesta, va a ser más difícil que ocurran estas cosas. Si se llenan las plazas de niños y niñas jugando, va a ser más fácil que desaparezcan las conductas que comentas.	0
+22742	1340	Los grupos de juego en la naturaleza como alternativa a la escolarización en el segundo ciclo de infantil podrían también apoyar y ayudar con la difusión de esta propuesta.	0
+22742	1334	Molaría más ir al grano: conciliación real para los padres, un sistema educativo más eficaz en el aula.	0
+22742	1341	Es necesario para que Madrid deje de ser un lugar tan hostil para la crianza. Eso sí, para toda la ciudad, no os olvidéis de barrios más periféricos.	0
+23131	1360	En Madrid es muy difícil. La gente adora a su coche por encima de todas las cosas.	1
+23131	1363	Carril bicicleta de verdad por todo Madrid ya Mejoráremos la ciudad y su aire.	1
+23131	1364	Mejoráremos en salud y por tanto ahorráremos en sanidad pública.	1
+23131	1373	La gente adora a su coche por encima de todas las cosas y bajar a la gente del coche es muy difícil.	1
+23131	1372	¿Qué sentido tiene seguir gastando dinero en un modelo de movilidad caduco y contaminante?	0
+23131	1352	La bicicleta puede fomentar una ciudad más saludable y cambiar radicalmente Madrid.	0
+23131	1370	Utilizaremos más coches compartidos y transporte de 2 ruedas.	0
+23131	1357	Ojalá el Ayuntamiento siga fomentando la bicicleta con algunas medidas cómo desgravaciones fiscales.	0
+23131	1354	Seré valiente. A cada porcentaje de mejora de la infraestructura del carril bicicleta, porcentaje de aumento del uso de la misma.	0
+23131	1368	Holanda no es comparable. No tiene nada que ver.	0
+23131	1361	Tienes buena intención, pero culturalmente aquí es muy difícil.	0
+23131	1365	Disminuiremos el ruido.	0
+23131	1359	Movilidad ciclista necesita ser invertida para llevar a cabo un buen plan.	0
+23131	1374	Utilizar el ciclismo como herramienta política ha creado ineficientes y populistas infraestructuras.	0
+23131	1366	Si no se utiliza más la bicicleta es porque la infraestructura actual es mortal.	0
+23219	1375	La naturaleza está a nuestro servicio y no nosotros a su conservación, sobre todo teneiendo en cuent que ella evoluciona como le da la gana sin pedirnos permiso.	1
+23219	1377	El que haya suciedad o no es culpa no del río sino de los madrileños, no nos engañemos. Los Madrileños queremos poder usar el río y poder practicar el remo.	1
+23219	1378	La suciedad del río se debe a lo guarra que es la gente, que va por el parque y tira la mierda al río.	1
+23219	1379	Es 15 km lo que ocupa la lámina de agua entre presas, lo que dudo que suponga un impacto medioambiental significativo al resto de la fauna del río.	1
+23219	1382	Buen día! , mi opinión es en contra de alterar el ecosistema creado los últimos años, es un aberrante desalojo de un montón de especies.	1
+23219	1385	Entiendo que se quiera un espacio para practicar deporte, pero si es a costa de un ecosistema no lo puedo compartir.	1
+23219	1384	Sobre las formas el cierre de la presa 9 y la reapertura de la escuela de remo fue votado y aprobado por unanimidad de todos los grupos políticos, incluso ecologistas se sumaron, para figurar como es lógico.	0
+23219	1381	origen inverso primero cabeza. 2 Los que queremos ver un río renaturalizado importante el factor de conectividad no somos per se anti-remo y mucho menos anti-deporte caer en eso sería una falacia.	0
+23219	1383	Ahora resulta que los que queréis re-naturalizar un río ya des-naturalizado desde su origen por otras presas que no veis y no os molestan tanto tenéis el patrimonio exclusivo del amor por la naturaleza.	0
+23704	1387	Las instituciones están encargadas de proteger nuestros derechos. No estar expuestos a imágenes de miedo en la calle es un derecho de niños y niñas.	1
+23704	1389	Máss valdría que le educara en la vida y los sentimientos, en vez de sobrepotegerle. Así solo creamos ciudadanos hipersensibles y que se molestan por todo.	1
+23704	1392	Creo que esta propuesta sólo puede abrir la caja de pandora de la censura. La prohibición lleva a efectos perversos como la ley mordaza y no creo que este tipo de afiches vayan a traumatizar a todos los niños.	1
+23704	1394	No se trata de censura, sino de clasificación rating La propuesta no afecta de ninguna manera la proyección de las películas en las salas de cine ni la libertad de expresión.	1
+23704	1388	Estamos hablando de imágenes de terror tamaño 3x4 mt. Anunciando películas no aptas para menores. ¿De qué manera estas imágenes ayudan al desarrollo emotivo y cognitivo de niños y niñas?	0
+23704	1395	En nuestro país también se ruedan películas de terror y se les da la publicidad que están dispuestas a pagar las productoras.	0
+23704	1390	El criterio que sugiero adoptar es que en los espacios urbanos se prohíban carteles publicitarios que contengan imágenes de películas clasificadas como no aptas para menores.	0
+23704	1398	Publicidad para que la gente vaya a los cines.	0
+23704	1391	En realidad se habla más de conceptos más amplios como libertad de expresión, libertad de empresa, libertad artística quizás de no muy buen gusto censura, temas más amplios.	0
+24954	1400	Las vtcs y los taxis tienen que competir en igualdad de condiciones, los taxis tienen una regulación de 16 horas diarias y dos días libres a la semana, las vtcs 24 horas y siete días semanales	1
+24954	1403	Lo normal es cumplir la ley. Entonces por qué no se aplica 130. Esto no se trata de regular, esto se trata de cumplir la ley	1
+24954	1405	Te guste o no las VTC son servicio público. Tienen autorización estatal espedida por las comunidades autónomas así que pueden hacer cualquier transporte previamente contratado	1
+24954	1406	No se pueden regular como un taxi porque no son taxi. Lo cual no quiere decir que no tengan regulación	1
+24954	1409	A veces los VTC también hacen un servicio especialmente importante. Llega un sábado por la noche de un día de lluvia y los taxis deciden que el número que puede salir es limitado. Los VTC suben sus tarifas y concentran su servicio en esas horas	1
+24954	1410	Son un caso en Madrid. Los ves continuamente circulando y esperando carreras. Es, para el medio ambiente, espantoso. Y luego están los conductores, trabajo esclavo basura, y todo para que 2 multinacionales se forren	1
+24954	1412	El taxi es un servicio público, por que sus tarifas las regula el estado por medio de ayuntamientos y comunidades autónomas y las vtc son vehículos privados de alquiler con conductor que ponen sus propios precios, es una diferencia bastante importante	1
+24954	1413	Actualmente la vtc es legal, es un negocio que por cierto si sabes bien muchas flotas tienen taxi y vtc	1
+24954	1416	Estoy en contra de la uberización y la precariedad que crean estas multinacionales explotadoras, no realizan bien común a la sociedad	1
+24954	1417	Las administraciones están encubriendo la destrucción de un sector de 100000 familias. De 1000000 de personas que viven directa o indirectamente del taxi	1
+24954	1402	Por qué no hacerlo al revés? Liberizar el taxi de sus horarios y días libres y todos tan contentos? No sería una mejoría para el taxista que trabaje todo lo que quiera en vez de limitar a otros?	0
+24954	1399	Es necesario que este modo de transporte tenga una regulación horaria los asalariados, para cumplir con las leyes aplicables	0
+25077	1419	No hay más que ver la boina de contaminación madrileña, conocida por todos desde hace muchos años ya. Lo que es injusto es tener que respirar eso día tras día, año tras año.	1
+25077	1420	No son excesivas las restricciones, lo único que ocurre es que es más cómodo ir en coche que en transporte público, yo quiero seguir viviendo en una ciudad y poder respirar aire que no sea mortal.	1
+25077	1422	Nadie le obliga a vivir en una megalópolis, tiene campo de sobra en el país. Y sí, son excesivas en cuanto a vehículos privados y laxas en cuanto a calefacciones o industrias, las principales causas contaminantes.	1
+25077	1423	Baja en la zona centro, en las periféricas sube y es un razonamiento lógico, si no puede circular casi nadie por el centro, en esas estaciones bajará.	1
+25077	1425	Son medidas clasistas y discriminatorias que sólo favorecen a ricos que pueden vivir en el centro y perjudican a los trabajadores.	1
+25077	1426	Cómodo o sano también. No se su situación, pero tras varios comentarios me queda claro que es muuuuy acomodada. Claro que es más cómodo y sano incluso ir en coche privado si para entrar a las 8 de la mañana a trabajar en vehículo privado tardó 30-40 minutos a mi trabajo y en trasporte público tardó 145-155 horas.	1
+25077	1428	Yo no he negado que sea un gran contaminante sino que solo se ataca al coche y no a la calefacción de carbón, por ejemplo.	1
+25077	1421	Primero, no son la primera causa de contaminación, por mucho que los demonicen no se convierta en verdad.	0
+25077	1424	Medidas clasistas y discriminatorias? Fíjese que a los acomodados que siempre usamos el transporte público no nos lo parecen.	0
+25077	1427	Yo quiero seguir viviendo en una ciudad y poder respirar aire que no sea mortal, y gracias por la idea pero no me voy a ir a vivir al campo a no ser que quiera regalarme usted un chalecito en la sierra.	0
+26277	1430	El Cañaveral, que es un barrio nuevo y en desarrollo, no debería soportar la carga de viviendas sociales de manera desproporcionada.	1
+26277	1433	Esperamos que el ayuntamiento se conciencie de la barbaridad que son 1200 viviendas.	0
+26787	1435	La mayoría de desplazamientos que se hacen el Madrid son al trabajo [...] pero la realidad es que el coche contamina y el ruido también.	1
+26787	1436	La contaminación se ha reducido bastante a niveles bastante estables, desde hace tiempo cada vez que salgo fuera y vuelvo a Madrid no suelo ver esa cúpula de contaminación que antes era tan habitual, no hay tanto caos ni tantos atascos, la ciudad es mucho más limpia...	1
+26787	1438	el efecto frontera es muy discutible, se palpa en los atascos mañaneros.	1
+26787	1441	Los turistas no van en coche, principalmente se mueven en transporte público...	1
+26787	1443	hay gente que tiene necesidad de ir en coche al centro, por ejemplo, mi hermana trabaja en una empresa de moda en Gran Vía, y sale a altas horas de la noche, cuando no hay transporte público...	1
+26787	1445	Madrid Central hace la ciudad un poco más humana, aunque nos resulte algo más incómodo no poder ir con nuestro coche por donde nos dé la gana sin pensar en el coste ambiental y humano que eso supone.	1
+26787	1446	Los de la Almendra pueden circular dentro y fuera. Y los que estamos fuera a respirar los humos de los de dentro ¡Viva Madrid Central!.	1
+26787	1449	Necesita una moratoria y recopilar las necesidades de acceso, entonces sí veré bien, puesto que se trata de quitar el tráfico de paso, no de hacer caja y un feudo de ricos.	1
+26787	1451	restricciones al tráfico de paso sí que son necesarias, pero el circo que han montado para hacer un mercado negro de autorizaciones y de falsos empadronamientos no.	1
+26787	1453	Madrid Central es necesario para una ciudad moderna y limpia, esto no es de derechas ni de izquierdas, es de sentido común.	1
+26787	1447	Madrid central es un juguete más de la Izquierda patria instrumentalizador, agitador y movilizador de Izquierdositos/as.	0
+26787	1440	Madrid Central es un engendro que hay que repensar sin prohibir y pensando en los comercios y la periferia sur de Madrid.	0
+26787	1450	Este sistema lleva implantado en otras grandes ciudades europeas desde hace tiempo Londres, Paris, etc.	0
+26787	1442	No hay derecho que los negocios tengan un límite de 20 pases mensuales sólo si están en una asociación, que los repartidores no puedan amortizar sus vehículos...	0
+26787	1452	Madrid central es una medida tomada por y para los cuatro progres que viven en la zona centro de la ciudad, sin tener en cuenta a todos los que vivimos en la periferia.	0
+26787	1437	sin tener en cuenta a todos los que vivimos en la periferia, donde los niveles de contaminación han subido al tener que pasar los coches rodeando esta zona...	0
+3078	835	Meter autobuses en la M30 y la M40 y donde realizarían las paradas? En la M30 apenas hay espacio para hacer apeaderos para los autobuses y menos en la zona de los túneles...	0
+3078	837	Yo creo que meter autobuses en la M-30 y M-40 solo agravaría el problema...	0
+3078	840	En nueva york hay lineas de metro expresa que no paran en todas las paradas y tienen otras vías. Por que no se puede hacer en autobús? No tendría que hacer paradas...	0
+3078	838	Pero todo esto no quita que si metes un vehículo torpe, como es el autobús, entorpezca aún más la ya colapsada circulación...	0
